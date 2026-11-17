@@ -1,0 +1,57 @@
+{
+  "san": "OKX",
+  "ma": "XOACPQFC",
+  "link": "",
+  "csv": "",
+  "style": {
+    "seed": 563961120,
+    "palette": "Deep Violet",
+    "fonts": "Sora",
+    "layout": "inset",
+    "layout_alt": "window",
+    "caption": "karaoke",
+    "transition": "flash",
+    "transition_alt": "push",
+    "texture": "none",
+    "code_style": "plate",
+    "thumb": "diagonal",
+    "motion": "stop",
+    "grade": "muted",
+    "radius": 36,
+    "upper": false,
+    "swap_accent": false,
+    "voice": "bm_lewis",
+    "speed": 1.01,
+    "music": "minimal piano",
+    "code_badge": true,
+    "badge_kind": "split",
+    "badge_pos": "tc",
+    "badge_pos_l": "tl",
+    "badge_label": "REFERRAL CODE",
+    "camera": "sway",
+    "fx": "vignette",
+    "title_fx": "slam",
+    "title_fx_alt": "scramble",
+    "accent": "circle",
+    "bg_motion": "blobs",
+    "sfx": "click",
+    "chart": "gauge",
+    "cursor": false,
+    "v": 2
+  },
+  "done": {
+    "short": [],
+    "long": []
+  },
+  "used_media": [],
+  "used_music": [],
+  "created": "2026-11-17",
+  "news_used": [
+    {
+      "key": "wells fargo reports 2 35 billion blackrock bitcoin etf shares but filing",
+      "url": "https://www.newsbtc.com/institutional/wells-fargo-reports-2-35-billion-in-blackrock-bitcoin-etf-shares-but-the-filing-needs-context/",
+      "stt": 1,
+      "at": "2026-11-17"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "format": "short",
+  "stt": 1,
+  "kind": "news",
+  "keyword": "wells fargo bitcoin etf",
+  "title": "Did Wells Fargo really buy $2.35B of Bitcoin?",
+  "news": {
+    "source": "NewsBTC",
+    "date": "2026-11-17"
+  },
+  "scenes": [
+    {
+      "type": "hook",
+      "title": "Wells Fargo's Bitcoin ETF stake",
+      "sub": "What the $2.35B filing really shows",
+      "kicker": "CRYPTO NEWS · NOV 17",
+      "media": {
+        "stock": "glass skyscraper dusk",
+        "alt": ["office tower night city"],
+        "image_prompt": "a tall modern glass bank tower at dusk seen from street level, warm office lights, purple sky, cinematic wide angle, no text, no logos"
+      },
+      "lines": [
+        {
+          "show": "Did Wells Fargo just put $2.35 billion into a Bitcoin ETF?",
+          "say": "Did Wells Fargo just put two point three five billion dollars into a Bitcoin ETF?"
+        },
+        {
+          "show": "Not exactly. Here is what the filing shows."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "title": "What did the filing say?",
+      "text": "About 49.58M shares of BlackRock's IBIT",
+      "media": {
+        "stock": "bank building glass facade",
+        "alt": [
+          "city financial district towers"
+        ]
+      },
+      "lines": [
+        {
+          "show": "NewsBTC, citing CoinDesk, says Wells Fargo reported about 49.58 million IBIT shares.",
+          "say": "NewsBTC, citing CoinDesk, says Wells Fargo reported about forty nine point five eight million IBIT shares."
+        },
+        {
+          "show": "That is BlackRock's Bitcoin fund, worth near $2.35 billion on September 30.",
+          "say": "That is BlackRock's Bitcoin fund, worth near two point three five billion dollars on September thirtieth."
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "value": "2x",
+      "label": "More IBIT shares since June",
+      "text": "24.4M in June · 49.58M in September",
+      "media": {
+        "stock": "financial documents desk",
+        "alt": [
+          "paper report pen close up"
+        ]
+      },
+      "lines": [
+        {
+          "show": "In June it was 24.4 million. The count more than doubled.",
+          "say": "In June it was twenty four point four million. The count more than doubled."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Not proof of the bank's own money",
+      "text": "A 13F can include assets managed for clients.",
+      "media": {
+        "stock": "advisor meeting client office",
+        "alt": [
+          "business people talking office"
+        ]
+      },
+      "lines": [
+        {
+          "show": "But this filing can include assets managed for customers."
+        },
+        {
+          "show": "So it does not prove the bank used its own cash."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "A September snapshot",
+      "text": "It says nothing about November trades.",
+      "media": {
+        "stock": "calendar on office desk",
+        "alt": [
+          "wall clock office"
+        ]
+      },
+      "lines": [
+        {
+          "show": "It is also a snapshot from September 30.",
+          "say": "It is also a snapshot from September thirtieth."
+        },
+        {
+          "show": "It says nothing about buying or selling in November."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Banks now use familiar funds",
+      "text": "Bitcoin exposure, inside regular investment accounts.",
+      "media": {
+        "stock": "trader desk monitors night",
+        "alt": [
+          "laptop chart dark room"
+        ]
+      },
+      "lines": [
+        {
+          "show": "The bigger trend: banks and clients now reach Bitcoin through familiar funds."
+        },
+        {
+          "show": "If you want to follow this market yourself, you can do it on OKX."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "media": {
+        "stock": "finger tapping phone screen",
+        "alt": [
+          "hands holding smartphone"
+        ]
+      },
+      "lines": [
+        {
+          "show": "The code is XOACPQFC."
+        },
+        {
+          "show": "Type it yourself when you sign up in the official app."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "media": {
+        "stock": "phone on desk night",
+        "alt": [
+          "smartphone desk lamp"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If OKX is available where you live, use code XOACPQFC at sign-up."
+        },
+        {
+          "show": "Follow for daily crypto news."
+        }
+      ]
+    }
+  ]
+}
