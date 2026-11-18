@@ -12,71 +12,278 @@
     "image_prompt": "a person filling a sign-up form on a laptop at a bright desk, phone beside the keyboard, clean modern workspace"
   },
   "scenes": [
-    { "type": "hook", "title": "OKX sign up referral code", "sub": "The exact moment to type it",
-      "media": { "stock": "person signing up on laptop", "alt": ["hands on laptop keyboard bright desk"],
-        "image_prompt": "hands typing on a laptop at a bright modern desk with a smartphone beside it, soft daylight" },
+    {
+      "type": "hook",
+      "title": "OKX sign up referral code",
+      "sub": "The exact moment to type it",
+      "media": {
+        "stock": "person signing up on laptop",
+        "alt": [
+          "hands on laptop keyboard bright desk"
+        ],
+        "image_prompt": "hands typing on a laptop at a bright modern desk with a smartphone beside it, soft daylight"
+      },
       "lines": [
-        { "show": "You enter an OKX referral code on the first sign-up screen, in the field for a referral or invite code, before you finish registration." },
-        { "show": "It works the same in the app and on the website." },
-        { "show": "Let's walk through both, then cover the small mistakes that make the code fail." } ] },
-
-    { "type": "chapter", "title": "Sign up in the app" },
-    { "type": "steps", "title": "App sign-up, in order",
-      "items": ["Install from your app store", "Tap Sign up", "Add email or phone", "Fill the referral field", "Create a password"],
-      "media": { "stock": "woman holding smartphone app", "alt": ["smartphone app screen hand"] },
+        {
+          "show": "You enter an OKX referral code on the first sign-up screen, in the field for a referral or invite code, before you finish registration."
+        },
+        {
+          "show": "It works the same in the app and on the website."
+        },
+        {
+          "show": "Let's walk through both, then cover the small mistakes that make the code fail."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Sign up in the app"
+    },
+    {
+      "type": "steps",
+      "title": "App sign-up, in order",
+      "items": [
+        "Install from your app store",
+        "Tap Sign up",
+        "Add email or phone",
+        "Fill the referral field",
+        "Create a password"
+      ],
+      "media": {
+        "stock": "woman holding smartphone app",
+        "alt": [
+          "smartphone app screen hand"
+        ]
+      },
       "lines": [
-        { "show": "Here's the app route." },
-        { "show": "Install OKX from your phone's official app store." },
-        { "show": "Open it and tap Sign up." },
-        { "show": "Enter your email address or phone number." },
-        { "show": "On the same screen, look for the referral code field. It may be folded under an optional line, so tap to open it." },
-        { "show": "Then create a strong password and confirm the code sent to you." } ] },
-    { "type": "statement", "title": "Optional means easy to miss", "text": "Open the field before you continue.",
-      "media": { "stock": "finger scrolling phone close up", "alt": ["thumb on smartphone screen"] },
+        {
+          "show": "Here's the app route."
+        },
+        {
+          "show": "Install OKX from your phone's official app store."
+        },
+        {
+          "show": "Open it and tap Sign up."
+        },
+        {
+          "show": "Enter your email address or phone number."
+        },
+        {
+          "show": "On the same screen, look for the referral code field. It may be folded under an optional line, so tap to open it."
+        },
+        {
+          "show": "Then create a strong password and confirm the code sent to you."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Optional means easy to miss",
+      "text": "Open the field before you continue.",
+      "media": {
+        "stock": "hand scrolling smartphone screen",
+        "alt": [
+          "thumb on phone screen close up"
+        ]
+      },
       "lines": [
-        { "show": "The word optional is the trap here." },
-        { "show": "Many people tap continue without opening the field, and the chance to add a code is gone." } ] },
-
-    { "type": "chapter", "title": "Sign up on the website" },
-    { "type": "steps", "title": "Website sign-up",
-      "items": ["Type the address yourself", "Click Sign up", "Add your details", "Open the code field"],
-      "media": { "stock": "laptop browser on desk", "alt": ["person using laptop office"] },
+        {
+          "show": "The word optional is the trap here."
+        },
+        {
+          "show": "Many people tap continue without opening the field, and the chance to add a code is gone."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Sign up on the website"
+    },
+    {
+      "type": "steps",
+      "title": "Website sign-up",
+      "items": [
+        "Type the address yourself",
+        "Click Sign up",
+        "Add your details",
+        "Open the code field"
+      ],
+      "media": {
+        "stock": "laptop browser on desk",
+        "alt": [
+          "person using laptop office"
+        ]
+      },
       "lines": [
-        { "show": "Prefer a computer? The website works too." },
-        { "show": "Type the OKX address yourself in the browser, instead of clicking an ad or a link from a message." },
-        { "show": "Click Sign up." },
-        { "show": "Add your email or phone number." },
-        { "show": "Then open the referral code field and type the code before you continue." } ] },
-    { "type": "warning", "title": "Look-alike sites exist", "text": "Check the address bar every time.",
-      "media": { "stock": "browser address bar close up", "alt": ["laptop screen close up"] },
+        {
+          "show": "Prefer a computer? The website works too."
+        },
+        {
+          "show": "Type the OKX address yourself in the browser, instead of clicking an ad or a link from a message."
+        },
+        {
+          "show": "Click Sign up."
+        },
+        {
+          "show": "Add your email or phone number."
+        },
+        {
+          "show": "Then open the referral code field and type the code before you continue."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Look-alike sites exist",
+      "text": "Check the address bar every time.",
+      "media": {
+        "stock": "woman using laptop at home",
+        "alt": [
+          "man working on laptop desk"
+        ]
+      },
       "lines": [
-        { "show": "Fake sites can copy the look of a real exchange." },
-        { "show": "Check the address bar before you type any password." } ] },
-
-    { "type": "chapter", "title": "Why codes fail" },
-    { "type": "checklist", "title": "Three common mistakes",
-      "items": ["A space before the code", "A zero instead of an O", "Typed after sign-up"],
-      "media": { "stock": "frustrated person at computer", "alt": ["man looking at laptop confused"] },
+        {
+          "show": "Fake sites can copy the look of a real exchange."
+        },
+        {
+          "show": "Check the address bar before you type any password."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "One account, two doors",
+      "text": "App or website, it's the same account.",
+      "media": {
+        "stock": "laptop and smartphone together",
+        "alt": [
+          "person using phone and laptop"
+        ]
+      },
       "lines": [
-        { "show": "When a code doesn't work, it's usually one of these." },
-        { "show": "A space copied before or after the code." },
-        { "show": "A number zero typed instead of the letter O." },
-        { "show": "Or the account was already created before the code was added." } ] },
-    { "type": "statement", "title": "Then read the rewards page", "text": "Offers and terms live in the app.",
-      "media": { "stock": "person reading smartphone on bench", "alt": ["woman reading phone outdoors"] },
+        {
+          "show": "Whichever door you use, you end up with the same account."
+        },
+        {
+          "show": "So if you start on the website, you can log in to the app later with the same email and password."
+        },
+        {
+          "show": "The referral link is created once, wherever you register."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Why codes fail"
+    },
+    {
+      "type": "checklist",
+      "title": "Three common mistakes",
+      "items": [
+        "A space before the code",
+        "A zero instead of an O",
+        "Typed after sign-up"
+      ],
+      "media": {
+        "stock": "frustrated man at laptop",
+        "alt": [
+          "woman confused at computer"
+        ]
+      },
       "lines": [
-        { "show": "Once you're in, open the rewards page." },
-        { "show": "New user offers change and can differ by country, so the terms there are what counts." } ] },
-
-    { "type": "code", "title": "Type this in the field", "text": "Letters only, no spaces",
-      "media": { "stock": "typing on phone keyboard close up", "alt": ["smartphone keyboard hand"] },
+        {
+          "show": "When a code doesn't work, it's usually one of these."
+        },
+        {
+          "show": "A space copied before or after the code."
+        },
+        {
+          "show": "A number zero typed instead of the letter O."
+        },
+        {
+          "show": "Or the account was already created before the code was added."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "title": "No code field at all?",
+      "text": "Look again before you give up.",
+      "media": {
+        "stock": "confused woman looking at phone",
+        "alt": [
+          "person puzzled smartphone"
+        ]
+      },
       "lines": [
-        { "show": "The code for this channel is XOACPQFC." },
-        { "show": "It's letters only, with no spaces and no zeros." } ] },
-    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
-      "media": { "stock": "laptop and phone on desk evening", "alt": ["desk lamp workspace night"] },
+        {
+          "show": "What if you can't see a code field at all?"
+        },
+        {
+          "show": "Scroll down on the first sign-up screen, and look for a small line or arrow that opens more options."
+        },
+        {
+          "show": "Updating the app to the newest version can also bring the field back."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Then read the rewards page",
+      "text": "Offers and terms live in the app.",
+      "media": {
+        "stock": "person reading smartphone on bench",
+        "alt": [
+          "woman reading phone outdoors"
+        ]
+      },
       "lines": [
-        { "show": "If OKX is available where you live, open the referral field and type XOACPQFC during sign-up." },
-        { "show": "Thanks for watching." } ] }
+        {
+          "show": "Once you're in, open the rewards page."
+        },
+        {
+          "show": "New user offers change and can differ by country, so the terms there are what counts."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "title": "Type this in the field",
+      "text": "Letters only, no spaces",
+      "media": {
+        "stock": "typing on phone keyboard close up",
+        "alt": [
+          "smartphone keyboard hand"
+        ]
+      },
+      "lines": [
+        {
+          "show": "The code for this channel is XOACPQFC."
+        },
+        {
+          "show": "It's letters only, with no spaces and no zeros."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "text": "Type the code when you sign up",
+      "media": {
+        "stock": "laptop and phone on desk evening",
+        "alt": [
+          "desk lamp workspace night"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If OKX is available where you live, open the referral field and type XOACPQFC during sign-up."
+        },
+        {
+          "show": "Thanks for watching, and see you next time."
+        }
+      ]
+    }
   ]
 }
