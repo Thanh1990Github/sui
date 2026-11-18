@@ -1,0 +1,80 @@
+{
+  "format": "long",
+  "stt": 8,
+  "keyword": "okx code",
+  "title": "OKX Code: Which One Should a New User Enter?",
+  "intro_chapter": "The one code that matters",
+  "code_chapter": "Code to enter",
+  "thumbnail": {
+    "text": "WHICH CODE?",
+    "badge": "NEW USERS",
+    "stock": "person choosing between two options",
+    "image_prompt": "a person holding a smartphone and pausing to decide, standing at a crossroads of a quiet city street, evening light"
+  },
+  "scenes": [
+    { "type": "hook", "title": "OKX code for new users", "sub": "Bonus, gift, VIP: which one?",
+      "media": { "stock": "person deciding with phone street", "alt": ["man thinking holding phone"],
+        "image_prompt": "a person pausing on a quiet city street at dusk, looking at a smartphone, thinking" },
+      "lines": [
+        { "show": "A new OKX user should enter one thing at sign-up: a referral code, in the referral or invite code field." },
+        { "show": "Words like bonus code, gift code or VIP code online usually point to that same kind of code." },
+        { "show": "Let's compare the names, then see what each one really is." } ] },
+
+    { "type": "chapter", "title": "Names compared" },
+    { "type": "compare", "title": "Code names you'll see",
+      "left": { "title": "At sign-up", "items": ["Referral code", "Invite code", "Same field"] },
+      "right": { "title": "After sign-up", "items": ["Rewards tasks", "Campaign entries", "Inside the app"] },
+      "media": { "stock": "two smartphones side by side", "alt": ["comparing two phones"] },
+      "lines": [
+        { "show": "Here's a simple way to sort the names." },
+        { "show": "At sign-up, there's the referral or invite code. They share one field." },
+        { "show": "After sign-up, rewards and campaigns run inside the app, usually as tasks you join, not codes you hunt for." } ] },
+    { "type": "statement", "title": "Gift code is usually a label", "text": "Check what the post really shares.",
+      "media": { "stock": "wrapped gift on desk", "alt": ["present box table"] },
+      "lines": [
+        { "show": "When a post says OKX gift code or bonus code, look closely." },
+        { "show": "Most of the time it's a personal referral code with a catchy name." } ] },
+    { "type": "statement", "title": "VIP comes from OKX's rules", "text": "Not from a code in a comment.",
+      "media": { "stock": "office desk documents", "alt": ["business papers desk"] },
+      "lines": [
+        { "show": "VIP tiers are a different topic." },
+        { "show": "They follow OKX's own fee tier rules on the official fee page, not a code someone posts." } ] },
+
+    { "type": "chapter", "title": "Watch out" },
+    { "type": "warning", "title": "Codes with a price tag", "text": "If you must pay, skip it.",
+      "media": { "stock": "wallet on table hand", "alt": ["person holding wallet"] },
+      "lines": [
+        { "show": "Any code you have to pay for, or that requires a deposit to someone, is a red flag." },
+        { "show": "Real referral codes are shared freely." } ] },
+    { "type": "checklist", "title": "A safe code looks like this",
+      "items": ["Just letters or numbers", "You type it yourself", "Inside the official app"],
+      "media": { "stock": "person typing phone at desk", "alt": ["smartphone desk typing"] },
+      "lines": [
+        { "show": "A safe code checks three boxes." },
+        { "show": "It's just a short string of letters or numbers." },
+        { "show": "You type it yourself." },
+        { "show": "And you type it inside the official app or website." } ] },
+
+    { "type": "chapter", "title": "Entering it right" },
+    { "type": "steps", "title": "Enter your code",
+      "items": ["Start sign-up", "Open the referral field", "Type the code", "Finish registration"],
+      "media": { "stock": "mobile sign up screen hand", "alt": ["hand holding smartphone app"] },
+      "lines": [
+        { "show": "Entering it takes a few seconds." },
+        { "show": "Start sign-up in the official app." },
+        { "show": "Open the referral field, even if it says optional." },
+        { "show": "Type the code carefully." },
+        { "show": "Then finish registration and verification." } ] },
+
+    { "type": "code", "title": "Code to enter", "text": "Referral field, at sign-up",
+      "media": { "stock": "hand holding phone close up", "alt": ["phone screen finger"] },
+      "lines": [
+        { "show": "If you want one, this channel's code is XOACPQFC." },
+        { "show": "That's the code to enter in the referral field." } ] },
+    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
+      "media": { "stock": "phone on desk morning light", "alt": ["smartphone table sunlight"] },
+      "lines": [
+        { "show": "If OKX is available where you live, enter XOACPQFC at sign-up, then read the rewards page for current terms." },
+        { "show": "Thanks for watching." } ] }
+  ]
+}

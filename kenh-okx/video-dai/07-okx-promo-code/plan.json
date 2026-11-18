@@ -1,0 +1,79 @@
+{
+  "format": "long",
+  "stt": 7,
+  "keyword": "okx promo code",
+  "title": "OKX Promo Code for New Users: What Really Exists",
+  "intro_chapter": "Promo code or referral code",
+  "code_chapter": "The code to type",
+  "thumbnail": {
+    "text": "PROMO CODE?",
+    "badge": "MYTH VS FACT",
+    "stock": "woman surprised looking at phone",
+    "image_prompt": "a surprised young woman looking at her smartphone in a bright living room, natural light, candid moment"
+  },
+  "scenes": [
+    { "type": "hook", "title": "OKX promo code", "sub": "Myth versus what actually exists",
+      "media": { "stock": "woman surprised looking at phone", "alt": ["person reacting to smartphone"],
+        "image_prompt": "a young woman reacting with curiosity to her smartphone in a bright living room" },
+      "lines": [
+        { "show": "For new users, what people call an OKX promo code is usually a referral code you enter at sign-up." },
+        { "show": "Promotions themselves live inside the app, in the rewards and campaign pages." },
+        { "show": "Let's clear up the common myth, then look at where real offers are shown." } ] },
+
+    { "type": "chapter", "title": "The common myth" },
+    { "type": "question", "title": "A magic code with cash?", "text": "That's the myth.",
+      "media": { "stock": "man looking at laptop doubtful", "alt": ["skeptical person screen"] },
+      "lines": [
+        { "show": "The myth goes like this: somewhere online there's a special promo code that pays a fixed amount of cash." },
+        { "show": "Posts like that get a lot of clicks." },
+        { "show": "But what they usually share is a regular referral code with a big promise attached." } ] },
+    { "type": "statement", "title": "Offers are set by OKX", "text": "Not by whoever posts the code.",
+      "media": { "stock": "office building lobby", "alt": ["modern office interior"] },
+      "lines": [
+        { "show": "Here's the fact: the new user program is set by OKX." },
+        { "show": "The person sharing a code doesn't decide what you receive." },
+        { "show": "So any post that promises a specific payout should be checked against the app." } ] },
+
+    { "type": "chapter", "title": "Where real offers live" },
+    { "type": "checklist", "title": "Check these pages",
+      "items": ["Rewards page in the app", "Campaign or events page", "Official announcements"],
+      "media": { "stock": "person browsing phone app", "alt": ["scrolling app smartphone"] },
+      "lines": [
+        { "show": "Real promotions show up in a few places." },
+        { "show": "The rewards page inside the app." },
+        { "show": "The campaign or events section, where time-limited programs appear." },
+        { "show": "And OKX's official announcements." } ] },
+    { "type": "warning", "title": "Coupons in private chats: a red flag", "text": "Real offers don't arrive by private message.",
+      "media": { "stock": "phone notification message", "alt": ["smartphone message screen"] },
+      "lines": [
+        { "show": "If a stranger sends you a coupon in a private message, treat it as a warning sign." },
+        { "show": "Real offers appear inside your account, not in a chat from someone you don't know." } ] },
+    { "type": "statement", "title": "Terms change often", "text": "Read the page on the day you join.",
+      "media": { "stock": "calendar and coffee desk", "alt": ["planner on desk"] },
+      "lines": [
+        { "show": "Programs change and can differ by country." },
+        { "show": "So read the terms on the day you sign up, not in an old screenshot." } ] },
+
+    { "type": "chapter", "title": "What to type at sign-up" },
+    { "type": "steps", "title": "Where the code goes",
+      "items": ["Open official sign-up", "Find the referral field", "Type the code", "Check rewards later"],
+      "media": { "stock": "typing on smartphone close", "alt": ["hand holding phone typing"] },
+      "lines": [
+        { "show": "So what do you actually type?" },
+        { "show": "Open sign-up in the official app." },
+        { "show": "Find the referral or invite code field." },
+        { "show": "Type the code there." },
+        { "show": "Then check the rewards page once your account is ready." } ] },
+
+    { "type": "code", "title": "The code to type", "text": "In the referral field at sign-up",
+      "media": { "stock": "finger on phone screen", "alt": ["smartphone touch close up"] },
+      "lines": [
+        { "show": "This channel's code is XOACPQFC." },
+        { "show": "Type it in the referral field, not in a coupon box." } ] },
+    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
+      "media": { "stock": "smartphone on sofa cushion", "alt": ["phone at home relaxed"] },
+      "lines": [
+        { "show": "If OKX is available where you live, use XOACPQFC at sign-up and check the rewards page for current offers." },
+        { "show": "Thanks for watching." } ] }
+  ]
+}

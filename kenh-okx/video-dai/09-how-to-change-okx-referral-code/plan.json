@@ -1,0 +1,82 @@
+{
+  "format": "long",
+  "stt": 9,
+  "keyword": "how to change okx referral code",
+  "title": "How to Change an OKX Referral Code After Signing Up",
+  "intro_chapter": "Can you change it?",
+  "code_chapter": "Get it right the first time",
+  "thumbnail": {
+    "text": "TOO LATE?",
+    "badge": "FAQ",
+    "stock": "man looking at phone worried",
+    "image_prompt": "a man looking at his smartphone with a slightly worried face, sitting at a kitchen table in the evening, warm lamp light"
+  },
+  "scenes": [
+    { "type": "hook", "title": "How to change an OKX referral code", "sub": "What you can and can't fix",
+      "media": { "stock": "man looking at phone worried", "alt": ["person concerned using smartphone"],
+        "image_prompt": "a man sitting at a kitchen table at night, looking at his phone, warm lamp light" },
+      "lines": [
+        { "show": "In general, an OKX referral code is set when you create your account, and it can't simply be edited later in the settings." },
+        { "show": "If you forgot it, the only reliable answer comes from OKX support inside the app." },
+        { "show": "Let's look at the mistakes people make, how to ask support, and how to get it right next time." } ] },
+
+    { "type": "chapter", "title": "Common mistakes" },
+    { "type": "warning", "title": "The field was skipped", "text": "The most common reason.",
+      "media": { "stock": "finger tapping continue phone", "alt": ["thumb on smartphone button"] },
+      "lines": [
+        { "show": "The most common story: the referral field was marked optional, and it was skipped." },
+        { "show": "Once registration is complete, the moment to add a code has usually passed." } ] },
+    { "type": "checklist", "title": "Three other mistakes",
+      "items": ["A typo in the code", "Signed up on another device", "Used a different email"],
+      "media": { "stock": "laptop and phone on bed", "alt": ["devices on bed"] },
+      "lines": [
+        { "show": "There are three other mistakes people make." },
+        { "show": "A typo, so the code linked to nobody." },
+        { "show": "Signing up on another device without the code." },
+        { "show": "Or creating the account with a different email than planned." } ] },
+    { "type": "statement", "title": "Don't open a second account", "text": "Duplicate accounts can break the rules.",
+      "media": { "stock": "two phones on table", "alt": ["pair of smartphones desk"] },
+      "lines": [
+        { "show": "Some people try to fix it by opening a second account." },
+        { "show": "Don't. Exchanges usually restrict duplicate accounts, and it can cause problems with verification." } ] },
+
+    { "type": "chapter", "title": "Ask support" },
+    { "type": "steps", "title": "Contact support safely",
+      "items": ["Open the official app", "Find Help or Support", "Start a chat", "Ask about the referral"],
+      "media": { "stock": "customer support chat phone", "alt": ["person chatting on smartphone"] },
+      "lines": [
+        { "show": "If you want to ask, do it the safe way." },
+        { "show": "Open the official OKX app." },
+        { "show": "Find the Help or Support section." },
+        { "show": "Start a chat from there." },
+        { "show": "Ask whether a referral can be added to your account, and accept their answer." } ] },
+    { "type": "warning", "title": "Fake support is everywhere", "text": "Only use help inside the app.",
+      "media": { "stock": "phone call unknown number", "alt": ["smartphone incoming call"] },
+      "lines": [
+        { "show": "Never contact support through a phone number or account you found in a comment." },
+        { "show": "Real support won't ask for your password or your 2FA code." } ] },
+
+    { "type": "chapter", "title": "Next time" },
+    { "type": "statement", "title": "Open the field first", "text": "Before anything else on that screen.",
+      "media": { "stock": "woman using phone carefully", "alt": ["person focused on smartphone"] },
+      "lines": [
+        { "show": "If you help a friend sign up, tell them one thing." },
+        { "show": "Open the referral field first, before typing anything else on that screen." } ] },
+    { "type": "statement", "title": "Read it back once", "text": "One check saves the trouble.",
+      "media": { "stock": "reading glasses on phone", "alt": ["close up reading screen"] },
+      "lines": [
+        { "show": "Then read the code back once before tapping continue." },
+        { "show": "It takes two seconds and saves a support chat later." } ] },
+
+    { "type": "code", "title": "Get it right the first time", "text": "Type it before you finish sign-up",
+      "media": { "stock": "typing smartphone keyboard", "alt": ["hands texting phone"] },
+      "lines": [
+        { "show": "If you haven't signed up yet, you can use this channel's code: XOACPQFC." },
+        { "show": "Type it before you finish registration." } ] },
+    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
+      "media": { "stock": "phone on nightstand lamp", "alt": ["smartphone bedside table"] },
+      "lines": [
+        { "show": "If OKX is available where you live, enter XOACPQFC during sign-up, and check it once before you continue." },
+        { "show": "Thanks for watching." } ] }
+  ]
+}

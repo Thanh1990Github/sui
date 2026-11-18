@@ -1,0 +1,82 @@
+{
+  "format": "long",
+  "stt": 10,
+  "keyword": "how to share okx referral code",
+  "title": "How to Share Your OKX Referral Code (Inviter Guide)",
+  "intro_chapter": "How inviting works",
+  "code_chapter": "Code from this channel",
+  "thumbnail": {
+    "text": "SHARE IT RIGHT",
+    "badge": "INVITER GUIDE",
+    "stock": "friends laughing with phones",
+    "image_prompt": "a group of friends laughing and showing each other their phones at a cafe table, warm daylight, candid"
+  },
+  "scenes": [
+    { "type": "hook", "title": "How to share an OKX referral code", "sub": "A clean guide for inviters",
+      "media": { "stock": "friends laughing with phones", "alt": ["group of friends cafe phones"],
+        "image_prompt": "friends at a cafe table showing each other their phones, warm daylight, candid" },
+      "lines": [
+        { "show": "The OKX referral program lets existing users invite friends with a personal code, and the program terms in the app decide what each side may receive." },
+        { "show": "Sharing is simple. Sharing it well takes a bit of care." },
+        { "show": "Here's how to find your code, share it, and stay on the right side of the rules." } ] },
+
+    { "type": "chapter", "title": "Find your code" },
+    { "type": "steps", "title": "Find and copy it",
+      "items": ["Open the OKX app", "Go to the menu", "Open Invite or Referral", "Copy your code"],
+      "media": { "stock": "person copying text on phone", "alt": ["smartphone menu scrolling"] },
+      "lines": [
+        { "show": "First, find your code." },
+        { "show": "Open the OKX app and log in." },
+        { "show": "Go to the main menu or your profile." },
+        { "show": "Open the section called Invite or Referral. The exact name can change between versions." },
+        { "show": "Copy your code from there." } ] },
+    { "type": "statement", "title": "Read the program terms", "text": "They decide what each side receives.",
+      "media": { "stock": "reading terms on tablet", "alt": ["person reading tablet"] },
+      "lines": [
+        { "show": "Before you share, read the referral program terms on that page." },
+        { "show": "They explain what inviters and new users may receive, and they can change." } ] },
+
+    { "type": "chapter", "title": "Share it well" },
+    { "type": "checklist", "title": "Good ways to share",
+      "items": ["Send the code itself", "Explain where to type it", "Point to the official app"],
+      "media": { "stock": "texting friend smartphone", "alt": ["sending message phone"] },
+      "lines": [
+        { "show": "Good sharing is simple." },
+        { "show": "Send the code itself, not a mystery link." },
+        { "show": "Tell your friend to type it in the referral field at sign-up." },
+        { "show": "And point them to the official app store listing." } ] },
+    { "type": "warning", "title": "Don't promise money", "text": "Platforms remove income claims.",
+      "media": { "stock": "man on phone call serious", "alt": ["serious person smartphone"] },
+      "lines": [
+        { "show": "Never promise people a fixed amount of money for signing up." },
+        { "show": "Platforms like TikTok and YouTube remove posts like that, and the terms may not match your promise." } ] },
+    { "type": "statement", "title": "Never ask for logins", "text": "Help with steps, not passwords.",
+      "media": { "stock": "padlock and smartphone", "alt": ["phone security lock icon"] },
+      "lines": [
+        { "show": "If a friend needs help, walk them through the steps." },
+        { "show": "Never ask for their password or verification codes." } ] },
+
+    { "type": "chapter", "title": "After they join" },
+    { "type": "statement", "title": "Track it in the app", "text": "The referral page shows invites.",
+      "media": { "stock": "person checking phone dashboard", "alt": ["looking at app on phone"] },
+      "lines": [
+        { "show": "After a friend signs up with your code, the referral page in the app usually shows the invite." },
+        { "show": "That's the place to check, rather than guessing." } ] },
+    { "type": "statement", "title": "Respect local rules", "text": "OKX isn't available everywhere.",
+      "media": { "stock": "world map pins", "alt": ["map on table"] },
+      "lines": [
+        { "show": "Also remember that OKX isn't available in every country." },
+        { "show": "Only invite people where it serves users." } ] },
+
+    { "type": "code", "title": "Code from this channel", "text": "For anyone who doesn't have one yet",
+      "media": { "stock": "hand holding phone sunlight", "alt": ["smartphone outdoor hand"] },
+      "lines": [
+        { "show": "And if you don't have an account yet, you can start with this channel's code: XOACPQFC." },
+        { "show": "Type it in the referral field when you sign up." } ] },
+    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
+      "media": { "stock": "coffee cup and phone", "alt": ["cafe table smartphone"] },
+      "lines": [
+        { "show": "If OKX is available where you live, use XOACPQFC at sign-up, then you'll have your own code to share." },
+        { "show": "Thanks for watching." } ] }
+  ]
+}
