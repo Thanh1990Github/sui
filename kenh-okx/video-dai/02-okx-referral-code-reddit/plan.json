@@ -8,86 +8,285 @@
   "thumbnail": {
     "text": "REDDIT CODES?",
     "badge": "CHECK FIRST",
-    "stock": "person reading laptop at night",
+    "stock": "man reading laptop screen",
     "image_prompt": "a person reading a long discussion thread on a laptop at night, violet screen glow on face, cozy dark room, cinematic"
   },
   "scenes": [
-    { "type": "hook", "title": "OKX referral code on Reddit", "sub": "What those threads really tell you",
-      "media": { "stock": "laptop screen dark room", "alt": ["person browsing laptop night"],
-        "image_prompt": "a laptop on a desk at night showing a blurred forum page, violet light, coffee mug, cinematic, no readable text" },
+    {
+      "type": "hook",
+      "title": "OKX referral code on Reddit",
+      "sub": "What those threads really tell you",
+      "media": {
+        "stock": "laptop screen dark room",
+        "alt": [
+          "person browsing laptop night"
+        ],
+        "image_prompt": "a laptop on a desk at night showing a blurred forum page, violet light, coffee mug, cinematic, no readable text"
+      },
       "lines": [
-        { "show": "Reddit users don't share one single OKX referral code. Threads are full of personal codes from different people." },
-        { "show": "So the real question is not which code is magic, but how to pick one safely." },
-        { "show": "In the next few minutes: how these threads work, the red flags to skip, and how to enter a code correctly." } ] },
-
-    { "type": "chapter", "title": "How the threads work" },
-    { "type": "statement", "title": "Every user has a code", "text": "That is why threads look so crowded.",
-      "media": { "stock": "people using phones crowd", "alt": ["group of friends with smartphones"] },
+        {
+          "show": "Reddit users don't share one single OKX referral code. Threads are full of personal codes from different people."
+        },
+        {
+          "show": "So the real question is not which code is magic, but how to pick one safely."
+        },
+        {
+          "show": "In the next few minutes: how these threads work, the red flags to skip, and how to enter a code correctly."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "How the threads work"
+    },
+    {
+      "type": "statement",
+      "title": "Every user has a code",
+      "text": "That is why threads look so crowded.",
+      "media": {
+        "stock": "people using phones crowd",
+        "alt": [
+          "group of friends with smartphones"
+        ]
+      },
       "lines": [
-        { "show": "On OKX, existing users can invite others with their own referral code." },
-        { "show": "That's why a single Reddit thread can hold dozens of different codes." },
-        { "show": "Most of them do the same basic job: they link a new account to the person who invited it." } ] },
-    { "type": "question", "title": "Is one Reddit code better?", "text": "Usually, the welcome program is the same.",
-      "media": { "stock": "man thinking at desk", "alt": ["person looking at screen thoughtful"] },
+        {
+          "show": "On OKX, existing users can invite others with their own referral code."
+        },
+        {
+          "show": "That's why a single Reddit thread can hold dozens of different codes."
+        },
+        {
+          "show": "Most of them do the same basic job: they link a new account to the person who invited it."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Is one Reddit code better?",
+      "text": "Usually, the welcome program is the same.",
+      "media": {
+        "stock": "man thinking at desk",
+        "alt": [
+          "person looking at screen thoughtful"
+        ]
+      },
       "lines": [
-        { "show": "So is a code from a popular comment better than another one?" },
-        { "show": "In general, the new user program is set by OKX, not by the person who posted the code." },
-        { "show": "The current welcome rewards and their terms are shown in the app's rewards page, so check them there." } ] },
-    { "type": "compare", "title": "Code vs. link in a comment",
-      "left": { "title": "A plain code", "items": ["You type it", "Inside the real app", "Easy to check"] },
-      "right": { "title": "An unknown link", "items": ["Could be fake", "May copy the site", "Skip it"] },
-      "media": { "stock": "hands typing laptop keyboard", "alt": ["laptop keyboard close up"] },
+        {
+          "show": "So is a code from a popular comment better than another one?"
+        },
+        {
+          "show": "In general, the new user program is set by OKX, not by the person who posted the code."
+        },
+        {
+          "show": "The current welcome rewards and their terms are shown in the app's rewards page, so check them there."
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "title": "Code vs. link in a comment",
+      "left": {
+        "title": "A plain code",
+        "items": [
+          "You type it",
+          "Inside the real app",
+          "Easy to check"
+        ]
+      },
+      "right": {
+        "title": "An unknown link",
+        "items": [
+          "Could be fake",
+          "May copy the site",
+          "Skip it"
+        ]
+      },
+      "media": {
+        "stock": "hands typing laptop keyboard",
+        "alt": [
+          "laptop keyboard close up"
+        ]
+      },
       "lines": [
-        { "show": "Here is a simple rule for anything you find in a thread." },
-        { "show": "A plain code is safe to use, because you type it yourself inside the official app." },
-        { "show": "An unknown link is different. It can lead to a page that only looks like OKX, so skip it." } ] },
-
-    { "type": "chapter", "title": "Red flags to skip" },
-    { "type": "checklist", "title": "Walk away if you see this",
-      "items": ["Someone asks you to DM them", "A promise of a fixed payout", "A request for your login"],
-      "media": { "stock": "woman looking at phone worried", "alt": ["person frowning at smartphone"] },
+        {
+          "show": "Here is a simple rule for anything you find in a thread."
+        },
+        {
+          "show": "A plain code is safe to use, because you type it yourself inside the official app."
+        },
+        {
+          "show": "An unknown link is different. It can lead to a page that only looks like OKX, so skip it."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Red flags to skip"
+    },
+    {
+      "type": "checklist",
+      "title": "Walk away if you see this",
+      "items": [
+        "Someone asks you to DM them",
+        "A promise of a fixed payout",
+        "A request for your login"
+      ],
+      "media": {
+        "stock": "worried woman reading smartphone",
+        "alt": [
+          "person anxious looking at phone"
+        ]
+      },
       "lines": [
-        { "show": "Some posts are not about codes at all. Watch for three signs." },
-        { "show": "One: the poster pushes you to message them privately to get a code." },
-        { "show": "Two: they promise a fixed amount of money if you sign up through them." },
-        { "show": "Three: they ask for your login details to set the account up for you." } ] },
-    { "type": "warning", "title": "A code never needs a password", "text": "Keep your login to yourself.",
-      "media": { "stock": "padlock on laptop keyboard", "alt": ["security lock keyboard"] },
+        {
+          "show": "Some posts are not about codes at all. Watch for three signs."
+        },
+        {
+          "show": "One: the poster pushes you to message them privately to get a code."
+        },
+        {
+          "show": "Two: they promise a fixed amount of money if you sign up through them."
+        },
+        {
+          "show": "Three: they ask for your login details to set the account up for you."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "A code never needs a password",
+      "text": "Keep your login to yourself.",
+      "media": {
+        "stock": "padlock on laptop keyboard",
+        "alt": [
+          "security lock keyboard"
+        ]
+      },
       "lines": [
-        { "show": "A referral code is meant to be public." },
-        { "show": "Your password, your email code, and your 2FA code are not. Nobody needs them to give you a code." } ] },
-    { "type": "statement", "title": "Old threads can be outdated", "text": "Read the date before you trust a post.",
-      "media": { "stock": "calendar pages close up", "alt": ["desk calendar office"] },
+        {
+          "show": "A referral code is meant to be public."
+        },
+        {
+          "show": "Your password, your email code, and your 2FA code are not. Nobody needs them to give you a code."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Old threads can be outdated",
+      "text": "Read the date before you trust a post.",
+      "media": {
+        "stock": "calendar pages close up",
+        "alt": [
+          "desk calendar office"
+        ]
+      },
       "lines": [
-        { "show": "Also, check the date of the thread." },
-        { "show": "Reward details posted a year ago may not match what the app shows today." } ] },
-
-    { "type": "chapter", "title": "Using a code correctly" },
-    { "type": "steps", "title": "The safe way to use it",
-      "items": ["Get the app from your store", "Start sign-up", "Find the referral field", "Type the code by hand"],
-      "media": { "stock": "phone app store download", "alt": ["person holding new smartphone"] },
+        {
+          "show": "Also, check the date of the thread."
+        },
+        {
+          "show": "Reward details posted a year ago may not match what the app shows today."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Using a code correctly"
+    },
+    {
+      "type": "steps",
+      "title": "The safe way to use it",
+      "items": [
+        "Get the app from your store",
+        "Start sign-up",
+        "Find the referral field",
+        "Type the code by hand"
+      ],
+      "media": {
+        "stock": "phone app store download",
+        "alt": [
+          "person holding new smartphone"
+        ]
+      },
       "lines": [
-        { "show": "Whatever code you choose, use it the same safe way." },
-        { "show": "Download OKX from your phone's official app store." },
-        { "show": "Start the sign-up with your email or phone number." },
-        { "show": "Find the referral or invite code field before you finish." },
-        { "show": "Type the code by hand, and check every letter." } ] },
-    { "type": "statement", "title": "Check where OKX operates", "text": "Availability depends on your country.",
-      "media": { "stock": "world map on wall", "alt": ["globe on desk"] },
+        {
+          "show": "Whatever code you choose, use it the same safe way."
+        },
+        {
+          "show": "Download OKX from your phone's official app store."
+        },
+        {
+          "show": "Start the sign-up with your email or phone number."
+        },
+        {
+          "show": "Find the referral or invite code field before you finish."
+        },
+        {
+          "show": "Type the code by hand, and check every letter."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Check where OKX operates",
+      "text": "Availability depends on your country.",
+      "media": {
+        "stock": "world map on wall",
+        "alt": [
+          "globe on desk"
+        ]
+      },
       "lines": [
-        { "show": "One last check: OKX is not available everywhere." },
-        { "show": "Make sure it serves your country before you start." } ] },
-
-    { "type": "code", "title": "Code used in this video", "text": "Typed by hand, inside the official app",
-      "media": { "stock": "thumb typing on smartphone", "alt": ["smartphone keyboard typing"] },
+        {
+          "show": "One last check: OKX is not available everywhere."
+        },
+        {
+          "show": "Make sure it serves your country before you start."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "title": "Code used in this video",
+      "text": "Typed by hand, inside the official app",
+      "media": {
+        "stock": "thumb typing on smartphone",
+        "alt": [
+          "smartphone keyboard typing"
+        ]
+      },
       "lines": [
-        { "show": "If you want a code to use, the one from this channel is XOACPQFC." },
-        { "show": "Type it into the referral field when you create your account." } ] },
-    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
-      "media": { "stock": "laptop and phone on table evening", "alt": ["workspace desk lamp night"] },
+        {
+          "show": "If you want a code to use, the one from this channel is XOACPQFC."
+        },
+        {
+          "show": "Type it into the referral field when you create your account."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "text": "Type the code when you sign up",
+      "media": {
+        "stock": "laptop and phone on table evening",
+        "alt": [
+          "workspace desk lamp night"
+        ]
+      },
       "lines": [
-        { "show": "If OKX is available where you live, you can use code XOACPQFC at sign-up." },
-        { "show": "Read the rewards terms in the app first, and stay away from unknown links." },
-        { "show": "See you in the next video." } ] }
+        {
+          "show": "If OKX is available where you live, you can use code XOACPQFC at sign-up."
+        },
+        {
+          "show": "Read the rewards terms in the app first, and stay away from unknown links."
+        },
+        {
+          "show": "See you in the next video."
+        }
+      ]
+    }
   ]
 }
