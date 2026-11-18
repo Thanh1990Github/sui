@@ -1,0 +1,84 @@
+{
+  "format": "long",
+  "stt": 3,
+  "keyword": "okx referral code where to find",
+  "title": "OKX Referral Code: Where to Find a Valid One (and Check It)",
+  "intro_chapter": "Where valid codes come from",
+  "code_chapter": "A code you can use today",
+  "thumbnail": {
+    "text": "WHERE IS IT?",
+    "badge": "GUIDE",
+    "stock": "woman searching on smartphone",
+    "image_prompt": "a curious person holding a smartphone and looking at it closely in a bright modern kitchen, morning light, shallow depth of field"
+  },
+  "scenes": [
+    { "type": "hook", "title": "Where to find an OKX referral code", "sub": "Three sources, one simple check",
+      "media": { "stock": "woman searching on smartphone", "alt": ["person looking at phone kitchen"],
+        "image_prompt": "a person looking at a smartphone with curiosity in a bright apartment, morning light, soft focus background" },
+      "lines": [
+        { "show": "A valid OKX referral code comes from someone who already has an OKX account: a friend, a creator, or your own app." },
+        { "show": "And you can test it in seconds, inside the sign-up screen." },
+        { "show": "Let's go through where codes come from, how to find your own, and how to check one." } ] },
+
+    { "type": "chapter", "title": "Three places codes come from" },
+    { "type": "checklist", "title": "Where valid codes live",
+      "items": ["A friend who uses OKX", "A creator you follow", "Your own app's invite page"],
+      "media": { "stock": "friends coffee talking phones", "alt": ["two women chatting cafe"] },
+      "lines": [
+        { "show": "There are three normal sources." },
+        { "show": "First, a friend or family member who already uses OKX can share their code with you." },
+        { "show": "Second, creators often share their code in a video or a pinned comment." },
+        { "show": "Third, once you have an account, your own code sits in the app's invite section." } ] },
+    { "type": "statement", "title": "A code is just letters", "text": "No file, no download, no payment.",
+      "media": { "stock": "handwritten note on desk", "alt": ["sticky note on laptop"] },
+      "lines": [
+        { "show": "Remember what a code is: a short string of letters or numbers." },
+        { "show": "It never comes as a file to install, and you never pay anyone to get one." } ] },
+    { "type": "warning", "title": "Skip codes sold or traded", "text": "A real code is shared, not sold.",
+      "media": { "stock": "man suspicious looking at laptop", "alt": ["person reading screen serious"] },
+      "lines": [
+        { "show": "If someone asks for money, a deposit, or your login in exchange for a code, walk away." },
+        { "show": "Referral codes are shared freely by people who already use the platform." } ] },
+
+    { "type": "chapter", "title": "Finding your own code" },
+    { "type": "steps", "title": "Find your code in the app",
+      "items": ["Open the OKX app", "Open the main menu", "Look for Invite or Referral", "Copy your code"],
+      "media": { "stock": "person scrolling phone menu", "alt": ["thumb scrolling smartphone"] },
+      "lines": [
+        { "show": "Already have an account and want your own code? Here's where to look." },
+        { "show": "Open the OKX app and log in." },
+        { "show": "Open the main menu or your profile." },
+        { "show": "Look for a section called Invite friends or Referral. Names can change between app versions." },
+        { "show": "There you'll see your code, ready to copy and share." } ] },
+    { "type": "statement", "title": "Share it the clean way", "text": "Code only. Let people type it themselves.",
+      "media": { "stock": "sending message on phone", "alt": ["texting on smartphone"] },
+      "lines": [
+        { "show": "When you share your code, share just the code." },
+        { "show": "Let the other person type it into the official app themselves. That keeps everyone safe." } ] },
+
+    { "type": "chapter", "title": "How to check a code" },
+    { "type": "statement", "title": "The sign-up screen checks it", "text": "Wrong codes are usually rejected.",
+      "media": { "stock": "phone screen form typing", "alt": ["filling form on smartphone"] },
+      "lines": [
+        { "show": "The easiest check is the sign-up screen itself." },
+        { "show": "When you type a code in the referral field, the app usually flags a code that doesn't exist." },
+        { "show": "If it's accepted, the code is valid for registration." } ] },
+    { "type": "question", "title": "Code accepted, now what?", "text": "Read the rewards page before anything else.",
+      "media": { "stock": "woman reading phone on sofa", "alt": ["relaxed person using smartphone home"] },
+      "lines": [
+        { "show": "So the code went through. What should you do next?" },
+        { "show": "Open the rewards page in the app and read what applies to you, including tasks and deadlines." },
+        { "show": "Then turn on two-factor authentication before you do anything else." } ] },
+
+    { "type": "code", "title": "A code you can use", "text": "Type it in the referral field",
+      "media": { "stock": "close up typing on phone", "alt": ["finger on smartphone screen"] },
+      "lines": [
+        { "show": "If you don't have a code yet, you can use this one: XOACPQFC." },
+        { "show": "Type it letter by letter in the referral field during sign-up." } ] },
+    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
+      "media": { "stock": "smartphone on wooden table morning", "alt": ["phone and coffee table"] },
+      "lines": [
+        { "show": "If OKX is available where you live, enter code XOACPQFC when you create your account." },
+        { "show": "Check the rewards page first, and thanks for watching." } ] }
+  ]
+}

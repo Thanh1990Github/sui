@@ -1,0 +1,8 @@
+# file nặng / file tạm của bộ máy video: không đưa lên GitHub
+.cache/
+video-*/*/*
+!video-*/*/plan.json
+!video-*/*/post.json
+!video-*/*/tin.json
+!video-*/*/thumbnail.jpg
+!video-*/*/noi-dung-dang.md
