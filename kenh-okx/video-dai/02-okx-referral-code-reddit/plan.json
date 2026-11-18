@@ -269,7 +269,6 @@
     {
       "type": "cta",
       "title": "If OKX is available where you live",
-      "text": "Type the code when you sign up",
       "media": {
         "stock": "laptop and phone on table evening",
         "alt": [
@@ -282,6 +281,9 @@
         },
         {
           "show": "Read the rewards terms in the app first, and stay away from unknown links."
+        },
+        {
+          "show": "The sign-up link is in the description."
         },
         {
           "show": "See you in the next video."

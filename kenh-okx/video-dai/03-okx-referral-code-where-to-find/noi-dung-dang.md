@@ -1,6 +1,6 @@
 # Nội dung đăng · OKX Referral Code: Where to Find a Valid One and Check It
 
-Video: `video.mp4` (2:36) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code where to find
+Video: `video.mp4` (2:38) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code where to find
 
 ## YouTube
 
@@ -12,6 +12,9 @@ OKX Referral Code: Where to Find a Valid One and Check It
 
 ```text
 A valid OKX referral code comes from someone who already has an OKX account: a friend, a creator you follow, or your own app's invite section. You can check it in seconds on the sign-up screen.
+
+Referral code: XOACPQFC
+Sign-up link: https://okx.com/join/XOACPQFC
 
 Referral code: XOACPQFC
 
@@ -45,7 +48,7 @@ okx referral code where to find, how to find okx referral code, how to check okx
 
 **Bình luận ghim**
 
-Referral code: XOACPQFC · Did you find your own invite code in the app? Which menu was it under for you?
+Referral code: XOACPQFC · Sign-up: https://okx.com/join/XOACPQFC · Did you find your own invite code in the app? Which menu was it under for you?
 
 ## Facebook
 

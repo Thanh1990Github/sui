@@ -294,10 +294,12 @@
           "show": "Check the rewards page in the app before you start."
         },
         {
+          "show": "The sign-up link is in the description."
+        },
+        {
           "show": "Thanks for watching."
         }
-      ],
-      "text": "Type the code when you sign up"
+      ]
     }
   ]
 }

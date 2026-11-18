@@ -1,6 +1,6 @@
 # Nội dung đăng · OKX Sign Up Referral Code: Where to Enter It (App and Web)
 
-Video: `video.mp4` (2:31) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx sign up referral code
+Video: `video.mp4` (2:33) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx sign up referral code
 
 ## YouTube
 
@@ -12,6 +12,9 @@ OKX Sign Up Referral Code: Where to Enter It (App and Web)
 
 ```text
 You enter an OKX referral code on the first sign-up screen, in the referral or invite code field, before you finish registration. It works the same in the OKX app and on the website.
+
+Referral code: XOACPQFC
+Sign-up link: https://okx.com/join/XOACPQFC
 
 Referral code: XOACPQFC
 
@@ -45,7 +48,7 @@ okx sign up referral code, okx sign up app, okx sign up online, okx sign up, okx
 
 **Bình luận ghim**
 
-Referral code: XOACPQFC · Did you sign up in the app or on the website? Tell us which was easier.
+Referral code: XOACPQFC · Sign-up: https://okx.com/join/XOACPQFC · Did you sign up in the app or on the website? Tell us which was easier.
 
 ## Facebook
 

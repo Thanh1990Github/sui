@@ -211,9 +211,9 @@
       "title": "No code field at all?",
       "text": "Look again before you give up.",
       "media": {
-        "stock": "confused woman looking at phone",
+        "stock": "person looking at smartphone puzzled",
         "alt": [
-          "person puzzled smartphone"
+          "man staring at phone screen"
         ]
       },
       "lines": [
@@ -269,7 +269,6 @@
     {
       "type": "cta",
       "title": "If OKX is available where you live",
-      "text": "Type the code when you sign up",
       "media": {
         "stock": "laptop and phone on desk evening",
         "alt": [
@@ -279,6 +278,9 @@
       "lines": [
         {
           "show": "If OKX is available where you live, open the referral field and type XOACPQFC during sign-up."
+        },
+        {
+          "show": "The sign-up link is in the description."
         },
         {
           "show": "Thanks for watching, and see you next time."

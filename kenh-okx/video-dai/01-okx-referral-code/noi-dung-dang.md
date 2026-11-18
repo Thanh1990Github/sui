@@ -1,6 +1,6 @@
 # Nội dung đăng · OKX Referral Code: What It Unlocks and How to Enter It (2026)
 
-Video: `video.mp4` (2:50) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code
+Video: `video.mp4` (2:52) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code
 
 ## YouTube
 
@@ -12,6 +12,9 @@ OKX Referral Code: What It Unlocks and How to Enter It (2026)
 
 ```text
 The OKX referral code is a short code you type once when you create your account. It links your new account to the person who invited you and can make you eligible for the current new user rewards.
+
+Referral code: XOACPQFC
+Sign-up link: https://okx.com/join/XOACPQFC
 
 Referral code: XOACPQFC
 
@@ -45,7 +48,7 @@ okx referral code, okx referral code today, okx referral code 2026, okx referral
 
 **Bình luận ghim**
 
-Referral code: XOACPQFC · Type it in the referral field during sign-up. What should I explain next about OKX?
+Referral code: XOACPQFC · Sign-up: https://okx.com/join/XOACPQFC · Type it in the referral field during sign-up. What should I explain next about OKX?
 
 ## Facebook
 

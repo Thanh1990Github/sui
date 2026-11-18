@@ -1,6 +1,6 @@
 # Nội dung đăng · OKX Referral Code Benefits: What You Actually Get (2026)
 
-Video: `video.mp4` (2:43) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code benefits
+Video: `video.mp4` (2:44) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code benefits
 
 ## YouTube
 
@@ -12,6 +12,9 @@ OKX Referral Code Benefits: What You Actually Get (2026)
 
 ```text
 Using an OKX referral code can make you eligible for the OKX new user welcome program and links your account to the person who invited you. It does not change your fees or give you a special kind of account.
+
+Referral code: XOACPQFC
+Sign-up link: https://okx.com/join/XOACPQFC
 
 Referral code: XOACPQFC
 
@@ -45,7 +48,7 @@ okx referral code benefits, okx referral code bonus, okx bonus referral code, ok
 
 **Bình luận ghim**
 
-Referral code: XOACPQFC · What question about OKX rewards should I answer next?
+Referral code: XOACPQFC · Sign-up: https://okx.com/join/XOACPQFC · What question about OKX rewards should I answer next?
 
 ## Facebook
 

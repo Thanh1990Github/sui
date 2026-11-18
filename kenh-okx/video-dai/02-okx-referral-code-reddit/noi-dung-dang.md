@@ -1,6 +1,6 @@
 # Nội dung đăng · OKX Referral Code Reddit: How to Pick a Code Safely (2026)
 
-Video: `video.mp4` (2:40) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code reddit
+Video: `video.mp4` (2:42) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx referral code reddit
 
 ## YouTube
 
@@ -12,6 +12,9 @@ OKX Referral Code Reddit: How to Pick a Code Safely (2026)
 
 ```text
 Reddit users don't share one single OKX referral code. Threads are full of personal codes from different users, so the real question is how to pick and use one safely.
+
+Referral code: XOACPQFC
+Sign-up link: https://okx.com/join/XOACPQFC
 
 Referral code: XOACPQFC
 
@@ -45,7 +48,7 @@ okx referral code reddit, okx referral code 2025, okx referral code, okx referra
 
 **Bình luận ghim**
 
-Referral code: XOACPQFC · Have you ever seen a fake link in a code thread? Tell us what it looked like.
+Referral code: XOACPQFC · Sign-up: https://okx.com/join/XOACPQFC · Have you ever seen a fake link in a code thread? Tell us what it looked like.
 
 ## Facebook
 

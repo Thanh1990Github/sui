@@ -1,6 +1,6 @@
 # Nội dung đăng · OKX Invite Code: What It Is and How to Use It (2026)
 
-Video: `video.mp4` (2:48) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx invite code
+Video: `video.mp4` (2:49) · Thumbnail: `thumbnail.jpg` · Từ khóa: okx invite code
 
 ## YouTube
 
@@ -12,6 +12,9 @@ OKX Invite Code: What It Is and How to Use It (2026)
 
 ```text
 An OKX invite code is the code an existing user shares so a new user can link their account at sign-up. In everyday use, invite code and referral code mean the same thing and go into the same field.
+
+Referral code: XOACPQFC
+Sign-up link: https://okx.com/join/XOACPQFC
 
 Referral code: XOACPQFC
 
@@ -45,7 +48,7 @@ okx invite code, okx invitation code, okx vip invite code, okx referral code, ok
 
 **Bình luận ghim**
 
-Invite code: XOACPQFC · Had you heard invite code and referral code used for the same thing?
+Invite code: XOACPQFC · Sign-up: https://okx.com/join/XOACPQFC · Had you heard invite code and referral code used for the same thing?
 
 ## Facebook
 

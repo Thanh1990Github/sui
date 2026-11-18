@@ -254,7 +254,6 @@
     {
       "type": "cta",
       "title": "If OKX is available where you live",
-      "text": "Type the code when you sign up",
       "media": {
         "stock": "smartphone on wooden table morning",
         "alt": [
@@ -264,6 +263,9 @@
       "lines": [
         {
           "show": "If OKX is available where you live, enter code XOACPQFC when you create your account."
+        },
+        {
+          "show": "The sign-up link is in the description."
         },
         {
           "show": "Check the rewards page first, and thanks for watching."
