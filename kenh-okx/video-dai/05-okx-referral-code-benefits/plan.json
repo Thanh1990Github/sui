@@ -12,69 +12,285 @@
     "image_prompt": "a smiling young man looking at his smartphone on a city street at golden hour, shallow depth of field"
   },
   "scenes": [
-    { "type": "hook", "title": "OKX referral code benefits", "sub": "Real answers, no hype",
-      "media": { "stock": "smiling man looking at phone", "alt": ["happy person using smartphone street"],
-        "image_prompt": "a young person smiling at a smartphone on a city street at golden hour, warm light, bokeh" },
+    {
+      "type": "hook",
+      "title": "OKX referral code benefits",
+      "sub": "Real answers, no hype",
+      "media": {
+        "stock": "smiling man looking at phone",
+        "alt": [
+          "happy person using smartphone street"
+        ],
+        "image_prompt": "a young person smiling at a smartphone on a city street at golden hour, warm light, bokeh"
+      },
       "lines": [
-        { "show": "Using an OKX referral code can make you eligible for the new user welcome program, and it links you to the person who invited you." },
-        { "show": "What it does not do is change your fees or give you a special kind of account." },
-        { "show": "Let's answer the questions people ask most." } ] },
-
-    { "type": "chapter", "title": "Your questions" },
-    { "type": "question", "title": "Do I get rewards?", "text": "Possibly, under the current terms.",
-      "media": { "stock": "gift box on desk", "alt": ["small present on table"] },
+        {
+          "show": "Using an OKX referral code can make you eligible for the new user welcome program, and it links you to the person who invited you."
+        },
+        {
+          "show": "What it does not do is change your fees or give you a special kind of account."
+        },
+        {
+          "show": "Let's answer the questions people ask most."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Your questions"
+    },
+    {
+      "type": "question",
+      "title": "Do I get rewards?",
+      "text": "Possibly, under the current terms.",
+      "media": {
+        "stock": "gift box on desk",
+        "alt": [
+          "small present on table"
+        ]
+      },
       "lines": [
-        { "show": "Question one: do you get rewards for using a code?" },
-        { "show": "OKX runs welcome programs for new users, and a referral can be part of that." },
-        { "show": "The exact rewards, tasks and deadlines are listed in the app's rewards page, and they change over time." } ] },
-    { "type": "statement", "title": "Rewards come with tasks", "text": "Read each step and deadline.",
-      "media": { "stock": "to do list notebook", "alt": ["checklist on paper desk"] },
+        {
+          "show": "Question one: do you get rewards for using a code?"
+        },
+        {
+          "show": "OKX runs welcome programs for new users, and a referral can be part of that."
+        },
+        {
+          "show": "The exact rewards, tasks and deadlines are listed in the app's rewards page, and they change over time."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Rewards come with tasks",
+      "text": "Read each step and deadline.",
+      "media": {
+        "stock": "to do list notebook",
+        "alt": [
+          "checklist on paper desk"
+        ]
+      },
       "lines": [
-        { "show": "Welcome rewards usually come with tasks, like finishing verification." },
-        { "show": "Some also have deadlines, so read each step before you start." } ] },
-    { "type": "question", "title": "Does it lower my fees?", "text": "Fees follow the official fee page.",
-      "media": { "stock": "calculator and papers desk", "alt": ["person using calculator"] },
+        {
+          "show": "Welcome rewards usually come with tasks, like finishing verification."
+        },
+        {
+          "show": "Some also have deadlines, so read each step before you start."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Find the rewards page",
+      "items": [
+        "Log in to the app",
+        "Open the menu",
+        "Tap Rewards",
+        "Read each task"
+      ],
+      "media": {
+        "stock": "woman tapping smartphone app",
+        "alt": [
+          "hand using phone app"
+        ]
+      },
       "lines": [
-        { "show": "Question two: does a referral code lower your trading fees?" },
-        { "show": "Don't assume it does. Fees follow OKX's official fee page and your account tier." },
-        { "show": "If a fee offer exists for you, the app will show it." } ] },
-
-    { "type": "chapter", "title": "What it doesn't change" },
-    { "type": "statement", "title": "Same account, same rules", "text": "Security and limits don't change.",
-      "media": { "stock": "person using phone at home", "alt": ["woman on sofa smartphone"] },
+        {
+          "show": "Here's how to see what applies to you."
+        },
+        {
+          "show": "Log in to the OKX app."
+        },
+        {
+          "show": "Open the main menu or the home screen shortcuts."
+        },
+        {
+          "show": "Tap the rewards or rewards center section. The name can vary by app version."
+        },
+        {
+          "show": "Then read each task, its deadline, and the terms at the bottom."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Does it lower my fees?",
+      "text": "Fees follow the official fee page.",
+      "media": {
+        "stock": "calculator and papers desk",
+        "alt": [
+          "person using calculator"
+        ]
+      },
       "lines": [
-        { "show": "With or without a code, you get the same app and the same rules." },
-        { "show": "Verification, security settings and withdrawal checks work the same way for everyone." } ] },
-    { "type": "question", "title": "Is a code risky?", "text": "A typed code is low risk.",
-      "media": { "stock": "man thinking at window", "alt": ["person looking outside thoughtful"] },
+        {
+          "show": "Question two: does a referral code lower your trading fees?"
+        },
+        {
+          "show": "Don't assume it does. Fees follow OKX's official fee page and your account tier."
+        },
+        {
+          "show": "If a fee offer exists for you, the app will show it."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "What it doesn't change"
+    },
+    {
+      "type": "statement",
+      "title": "Same account, same rules",
+      "text": "Security and limits don't change.",
+      "media": {
+        "stock": "person using phone at home",
+        "alt": [
+          "woman on sofa smartphone"
+        ]
+      },
       "lines": [
-        { "show": "Question three: is it risky to use someone's code?" },
-        { "show": "Typing a code into the official app is low risk. It only creates the referral link." },
-        { "show": "The risk comes from fake links and people asking for your login, not from the code itself." } ] },
-    { "type": "warning", "title": "Never trade your login", "text": "No code is worth your password.",
-      "media": { "stock": "smartphone lock screen hand", "alt": ["phone security lock"] },
+        {
+          "show": "With or without a code, you get the same app and the same rules."
+        },
+        {
+          "show": "Verification, security settings and withdrawal checks work the same way for everyone."
+        },
+        {
+          "show": "So a code is a starting point, not a shortcut around the normal checks."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Is a code risky?",
+      "text": "A typed code is low risk.",
+      "media": {
+        "stock": "man thinking at window",
+        "alt": [
+          "person looking outside thoughtful"
+        ]
+      },
       "lines": [
-        { "show": "So keep one rule: never share your password or verification codes with anyone offering a code." } ] },
-
-    { "type": "chapter", "title": "Before you sign up" },
-    { "type": "checklist", "title": "Quick check first",
-      "items": ["OKX serves your country", "You read the rewards terms", "You have the official app"],
-      "media": { "stock": "woman checking list notebook", "alt": ["writing in notebook cafe"] },
+        {
+          "show": "Question three: is it risky to use someone's code?"
+        },
+        {
+          "show": "Typing a code into the official app is low risk. It only creates the referral link."
+        },
+        {
+          "show": "The risk comes from fake links and people asking for your login, not from the code itself."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Never trade your login",
+      "text": "No code is worth your password.",
+      "media": {
+        "stock": "smartphone lock screen hand",
+        "alt": [
+          "phone security lock"
+        ]
+      },
       "lines": [
-        { "show": "Before you sign up, check three things." },
-        { "show": "That OKX serves your country." },
-        { "show": "That you've read the current rewards terms." },
-        { "show": "And that you downloaded the official app." } ] },
-
-    { "type": "code", "title": "Code for new users", "text": "Enter it during registration",
-      "media": { "stock": "hand tapping phone screen", "alt": ["finger touch smartphone"] },
+        {
+          "show": "So keep one rule: never share your password or verification codes with anyone offering a code."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Country rules apply",
+      "text": "Some offers aren't shown everywhere.",
+      "media": {
+        "stock": "passport and phone on table",
+        "alt": [
+          "travel documents desk"
+        ]
+      },
       "lines": [
-        { "show": "If you'd like to use this channel's code, it's XOACPQFC." },
-        { "show": "Enter it in the referral field during registration." } ] },
-    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
-      "media": { "stock": "coffee and smartphone table", "alt": ["phone on cafe table"] },
+        {
+          "show": "Also keep in mind that offers can depend on where you live."
+        },
+        {
+          "show": "If you don't see a program someone mentioned online, it may simply not apply in your country."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Before you sign up"
+    },
+    {
+      "type": "checklist",
+      "title": "Quick check first",
+      "items": [
+        "OKX serves your country",
+        "You read the rewards terms",
+        "You have the official app"
+      ],
+      "media": {
+        "stock": "woman checking list notebook",
+        "alt": [
+          "writing in notebook cafe"
+        ]
+      },
       "lines": [
-        { "show": "If OKX is available where you live, use code XOACPQFC at sign-up, then read the rewards page." },
-        { "show": "See you next time." } ] }
+        {
+          "show": "Before you sign up, check three things."
+        },
+        {
+          "show": "That OKX serves your country."
+        },
+        {
+          "show": "That you've read the current rewards terms."
+        },
+        {
+          "show": "And that you downloaded the official app."
+        },
+        {
+          "show": "Those three minutes can save you a lot of trouble later."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "title": "Code for new users",
+      "text": "Enter it during registration",
+      "media": {
+        "stock": "hand tapping phone screen",
+        "alt": [
+          "finger touch smartphone"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If you'd like to use this channel's code, it's XOACPQFC."
+        },
+        {
+          "show": "Enter it in the referral field during registration."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "text": "Type the code when you sign up",
+      "media": {
+        "stock": "coffee and smartphone table",
+        "alt": [
+          "phone on cafe table"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If OKX is available where you live, use code XOACPQFC at sign-up, then read the rewards page."
+        },
+        {
+          "show": "See you next time."
+        }
+      ]
+    }
   ]
 }

@@ -12,71 +12,302 @@
     "image_prompt": "two friends looking at one smartphone together outdoors in a park, warm afternoon light, natural and friendly"
   },
   "scenes": [
-    { "type": "hook", "title": "OKX invite code", "sub": "Same thing as a referral code?",
-      "media": { "stock": "friends sharing phone outdoors", "alt": ["two people looking at smartphone park"],
-        "image_prompt": "two friends sharing one smartphone screen in a park, warm afternoon light" },
+    {
+      "type": "hook",
+      "title": "OKX invite code",
+      "sub": "Same thing as a referral code?",
+      "media": {
+        "stock": "friends sharing phone outdoors",
+        "alt": [
+          "two people looking at smartphone park"
+        ],
+        "image_prompt": "two friends sharing one smartphone screen in a park, warm afternoon light"
+      },
       "lines": [
-        { "show": "An OKX invite code is the code an existing user shares so a new user can link their account at sign-up." },
-        { "show": "In everyday use, invite code and referral code mean the same thing." },
-        { "show": "Here's how it works, how to use one, and what about the VIP invite codes you may see online." } ] },
-
-    { "type": "chapter", "title": "How invites work" },
-    { "type": "statement", "title": "Two names, one field", "text": "Invite code, referral code: same box.",
-      "media": { "stock": "smartphone form screen", "alt": ["filling form on phone"] },
+        {
+          "show": "An OKX invite code is the code an existing user shares so a new user can link their account at sign-up."
+        },
+        {
+          "show": "In everyday use, invite code and referral code mean the same thing."
+        },
+        {
+          "show": "Here's how it works, how to use one, and what about the VIP invite codes you may see online."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "How invites work"
+    },
+    {
+      "type": "statement",
+      "title": "Two names, one field",
+      "text": "Invite code, referral code: same box.",
+      "media": {
+        "stock": "smartphone form screen",
+        "alt": [
+          "filling form on phone"
+        ]
+      },
       "lines": [
-        { "show": "Some pages say invite code, others say referral code." },
-        { "show": "At sign-up, both go into the same field." } ] },
-    { "type": "steps", "title": "Using an invite code",
-      "items": ["Get a code from someone", "Open official sign-up", "Type it in the field", "Finish verification"],
-      "media": { "stock": "person typing on smartphone cafe", "alt": ["woman texting cafe"] },
+        {
+          "show": "Some pages say invite code, others say referral code."
+        },
+        {
+          "show": "At sign-up, both go into the same field."
+        },
+        {
+          "show": "So if a friend sends you an invite code, you don't need to look for a different box."
+        }
+      ]
+    },
+    {
+      "type": "question",
+      "title": "Why do people share invites?",
+      "text": "The program terms reward both sides in some cases.",
+      "media": {
+        "stock": "friends talking outdoors cafe",
+        "alt": [
+          "two people chatting coffee"
+        ]
+      },
       "lines": [
-        { "show": "Using one takes four steps." },
-        { "show": "Get a code from a friend or a creator who uses OKX." },
-        { "show": "Open sign-up in the official app or on the official website." },
-        { "show": "Type the code in the invite or referral field." },
-        { "show": "Then finish your identity verification." } ] },
-    { "type": "stat", "value": "1", "label": "Code per new account",
+        {
+          "show": "Why do people share invite codes at all?"
+        },
+        {
+          "show": "OKX runs a referral program, and its terms can give inviters and new users something in certain cases."
+        },
+        {
+          "show": "The details live in the app, and they change over time."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Using an invite code",
+      "items": [
+        "Get a code from someone",
+        "Open official sign-up",
+        "Type it in the field",
+        "Finish verification"
+      ],
+      "media": {
+        "stock": "person typing on smartphone cafe",
+        "alt": [
+          "woman texting cafe"
+        ]
+      },
+      "lines": [
+        {
+          "show": "Using one takes four steps."
+        },
+        {
+          "show": "Get a code from a friend or a creator who uses OKX."
+        },
+        {
+          "show": "Open sign-up in the official app or on the official website."
+        },
+        {
+          "show": "Type the code in the invite or referral field."
+        },
+        {
+          "show": "Then finish your identity verification."
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "value": "1",
+      "label": "Code per new account",
       "text": "Each sign-up links to one inviter.",
-      "media": { "stock": "single key on table", "alt": ["one coin on desk"] },
+      "media": {
+        "stock": "single key on table",
+        "alt": [
+          "one coin on desk"
+        ]
+      },
       "lines": [
-        { "show": "One thing to remember: a new account links to one inviter, set at registration." } ] },
-
-    { "type": "chapter", "title": "About VIP invite codes" },
-    { "type": "question", "title": "What's a VIP invite code?", "text": "Often just a label in a post.",
-      "media": { "stock": "luxury card on table", "alt": ["business card desk"] },
+        {
+          "show": "One thing to remember: a new account links to one inviter, set at registration."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "About VIP invite codes"
+    },
+    {
+      "type": "question",
+      "title": "What's a VIP invite code?",
+      "text": "Often just a label in a post.",
+      "media": {
+        "stock": "luxury card on table",
+        "alt": [
+          "business card desk"
+        ]
+      },
       "lines": [
-        { "show": "You may see posts promising a VIP invite code." },
-        { "show": "Usually that's just a label someone added to their personal code." },
-        { "show": "VIP levels and fee tiers follow OKX's own rules, shown on the official fee page." } ] },
-    { "type": "warning", "title": "Be careful with VIP offers", "text": "Nobody sells a VIP shortcut.",
-      "media": { "stock": "man looking at laptop suspicious", "alt": ["person frowning at screen"] },
+        {
+          "show": "You may see posts promising a VIP invite code."
+        },
+        {
+          "show": "Usually that's just a label someone added to their personal code."
+        },
+        {
+          "show": "VIP levels and fee tiers follow OKX's own rules, shown on the official fee page."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Be careful with VIP offers",
+      "text": "Nobody sells a VIP shortcut.",
+      "media": {
+        "stock": "man looking at laptop suspicious",
+        "alt": [
+          "person frowning at screen"
+        ]
+      },
       "lines": [
-        { "show": "If someone asks for money or your login in exchange for VIP access, it's not a real offer. Walk away." } ] },
-
-    { "type": "chapter", "title": "After you join" },
-    { "type": "statement", "title": "You get a code too", "text": "Find it in the app's invite section.",
-      "media": { "stock": "person sharing phone screen friend", "alt": ["showing phone to friend"] },
+        {
+          "show": "If someone asks for money or your login in exchange for VIP access, it's not a real offer. Walk away."
+        },
+        {
+          "show": "Real tiers are explained by OKX itself, on its official pages."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "How fee tiers really work",
+      "text": "Check the official fee page.",
+      "media": {
+        "stock": "person reading chart on laptop",
+        "alt": [
+          "laptop screen graphs desk"
+        ]
+      },
       "lines": [
-        { "show": "Once your account is active, you'll have your own invite code too." },
-        { "show": "Look for the invite or referral section in the app menu." } ] },
-    { "type": "checklist", "title": "First things to do",
-      "items": ["Turn on two-factor login", "Read the rewards page", "Save support contacts"],
-      "media": { "stock": "phone settings screen", "alt": ["smartphone security settings"] },
+        {
+          "show": "If you're curious about VIP levels, go to the official fee page."
+        },
+        {
+          "show": "It explains how tiers are set, so you don't have to rely on someone's post."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "After you join"
+    },
+    {
+      "type": "statement",
+      "title": "You get a code too",
+      "text": "Find it in the app's invite section.",
+      "media": {
+        "stock": "person sharing phone screen friend",
+        "alt": [
+          "showing phone to friend"
+        ]
+      },
       "lines": [
-        { "show": "And a short to-do list for day one." },
-        { "show": "Turn on two-factor authentication." },
-        { "show": "Read the rewards page and its terms." },
-        { "show": "And only use support channels inside the official app." } ] },
-
-    { "type": "code", "title": "An invite code to use", "text": "Works in the invite or referral field",
-      "media": { "stock": "hand writing code on paper", "alt": ["note pad pen desk"] },
+        {
+          "show": "Once your account is active, you'll have your own invite code too."
+        },
+        {
+          "show": "Look for the invite or referral section in the app menu."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Invite only where it's allowed",
+      "text": "OKX isn't available in every country.",
+      "media": {
+        "stock": "globe on office desk",
+        "alt": [
+          "world map close up"
+        ]
+      },
       "lines": [
-        { "show": "Need an invite code? You can use XOACPQFC." },
-        { "show": "Type it in the invite or referral field when you sign up." } ] },
-    { "type": "cta", "title": "If OKX is available where you live", "text": "Type the code when you sign up",
-      "media": { "stock": "phone on park bench", "alt": ["smartphone outdoors table"] },
+        {
+          "show": "Before you share your own code, remember that OKX doesn't serve every country."
+        },
+        {
+          "show": "Only invite people who live where the platform is available."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "title": "First things to do",
+      "items": [
+        "Turn on two-factor login",
+        "Read the rewards page",
+        "Save support contacts"
+      ],
+      "media": {
+        "stock": "phone settings screen",
+        "alt": [
+          "smartphone security settings"
+        ]
+      },
       "lines": [
-        { "show": "If OKX is available where you live, enter invite code XOACPQFC during registration." },
-        { "show": "Thanks for watching." } ] }
+        {
+          "show": "And a short to-do list for day one."
+        },
+        {
+          "show": "Turn on two-factor authentication."
+        },
+        {
+          "show": "Read the rewards page and its terms."
+        },
+        {
+          "show": "And only use support channels inside the official app."
+        },
+        {
+          "show": "These small steps protect your account from the very first day."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "title": "An invite code to use",
+      "text": "Works in the invite or referral field",
+      "media": {
+        "stock": "hand writing code on paper",
+        "alt": [
+          "note pad pen desk"
+        ]
+      },
+      "lines": [
+        {
+          "show": "Need an invite code? You can use XOACPQFC."
+        },
+        {
+          "show": "Type it in the invite or referral field when you sign up."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "text": "Type the code when you sign up",
+      "media": {
+        "stock": "phone on park bench",
+        "alt": [
+          "smartphone outdoors table"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If OKX is available where you live, enter invite code XOACPQFC during registration."
+        },
+        {
+          "show": "Thanks for watching."
+        }
+      ]
+    }
   ]
 }
