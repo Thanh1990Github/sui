@@ -1,0 +1,39 @@
+{
+  "format": "short",
+  "stt": 3,
+  "keyword": "okx referral code where to find",
+  "title": "Where to find a valid OKX referral code",
+  "scenes": [
+    { "type": "hook", "title": "Where to find an OKX code", "sub": "Three normal places, one quick check",
+      "media": { "stock": "friends sharing phone screen", "alt": ["two people looking at phone"] },
+      "lines": [
+        { "show": "A valid OKX referral code comes from someone who already has an OKX account." },
+        { "show": "But people still make mistakes when they look for one." } ] },
+    { "type": "warning", "title": "Don't pay for a code", "text": "Codes are shared freely.",
+      "media": { "stock": "man shaking head phone", "alt": ["person saying no gesture"] },
+      "lines": [
+        { "show": "First, never pay for a code or send anyone a deposit to get one." } ] },
+    { "type": "checklist", "title": "Three common mistakes", "items": ["Clicking unknown links", "Using an old screenshot", "Adding it too late"],
+      "media": { "stock": "woman frustrated laptop", "alt": ["person stressed at computer"] },
+      "lines": [
+        { "show": "Three other mistakes come up a lot." },
+        { "show": "Clicking unknown links instead of typing the code yourself." },
+        { "show": "Copying from a blurry screenshot and mixing up letters." },
+        { "show": "Trying to add the code after the account is already made." } ] },
+    { "type": "steps", "title": "The right way", "items": ["Get it from a person", "Type it at sign-up", "Watch for a check"],
+      "media": { "stock": "smiling woman using phone", "alt": ["happy person with smartphone"] },
+      "lines": [
+        { "show": "Here's the clean way." },
+        { "show": "Get a code from a friend or a creator you follow." },
+        { "show": "Type it in the referral field on the sign-up screen." },
+        { "show": "The app usually flags a code that doesn't exist." } ] },
+    { "type": "code", "media": { "stock": "phone screen close up hand", "alt": ["smartphone in palm"] },
+      "lines": [
+        { "show": "Want one to try? The code is XOACPQFC." },
+        { "show": "Type it exactly, letter by letter." } ] },
+    { "type": "cta", "title": "If OKX is available where you live",
+      "media": { "stock": "city street evening phone", "alt": ["person walking with phone"] },
+      "lines": [
+        { "show": "If OKX is available where you live, use code XOACPQFC when you create your account." } ] }
+  ]
+}

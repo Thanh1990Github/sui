@@ -1,0 +1,37 @@
+{
+  "format": "short",
+  "stt": 4,
+  "keyword": "okx sign up referral code",
+  "title": "OKX sign up: where the referral code goes",
+  "scenes": [
+    { "type": "hook", "title": "OKX sign up referral code", "sub": "The field most people miss",
+      "media": { "stock": "young man opening app", "alt": ["person unlocking smartphone"] },
+      "lines": [
+        { "show": "You enter an OKX referral code on the first sign-up screen, before you finish registration." } ] },
+    { "type": "steps", "title": "Four taps", "items": ["Open the OKX app", "Tap Sign up", "Open the code field", "Type the code"],
+      "media": { "stock": "thumb scrolling app", "alt": ["hand using mobile app"] },
+      "lines": [
+        { "show": "It takes four taps." },
+        { "show": "Open the official OKX app." },
+        { "show": "Tap Sign up and add your email or phone number." },
+        { "show": "Look for the referral or invite code line. It may be folded as optional." },
+        { "show": "Open it and type the code." } ] },
+    { "type": "code", "media": { "stock": "woman typing on phone", "alt": ["fingers on touchscreen"] },
+      "lines": [
+        { "show": "The code for this video is XOACPQFC." },
+        { "show": "That's the letter O, not a zero." } ] },
+    { "type": "statement", "title": "Same steps on the web", "text": "Type the official address yourself.",
+      "media": { "stock": "laptop browser on desk", "alt": ["person using laptop home"] },
+      "lines": [
+        { "show": "The website works the same way." },
+        { "show": "Type the address yourself instead of clicking an ad, then open the code field." } ] },
+    { "type": "warning", "title": "It can't be added later", "text": "Enter it before you finish.",
+      "media": { "stock": "hourglass on table", "alt": ["clock on desk"] },
+      "lines": [
+        { "show": "Once the account is created, the field is gone, so add the code first." } ] },
+    { "type": "cta", "title": "If OKX is available where you live",
+      "media": { "stock": "smartphone on sofa", "alt": ["phone lying on couch"] },
+      "lines": [
+        { "show": "If OKX is available where you live, type XOACPQFC on the first sign-up screen." } ] }
+  ]
+}

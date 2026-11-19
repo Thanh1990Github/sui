@@ -1,0 +1,38 @@
+{
+  "format": "short",
+  "stt": 1,
+  "keyword": "okx referral code",
+  "title": "OKX referral code: what it really does",
+  "scenes": [
+    { "type": "hook", "title": "OKX referral code", "sub": "What it does, in under a minute",
+      "media": { "stock": "woman holding smartphone night", "alt": ["smartphone glowing screen dark"] },
+      "lines": [
+        { "show": "An OKX referral code is a short code you type at sign-up that links your new account to the person who invited you." },
+        { "show": "It can also make you eligible for the current new user program." } ] },
+    { "type": "question", "title": "Does it change your account?", "text": "A common mix-up, cleared up.",
+      "media": { "stock": "confused man looking at phone", "alt": ["person thinking with phone"] },
+      "lines": [
+        { "show": "Many people think a code gives them a special account." } ] },
+    { "type": "statement", "title": "Same account, same rules", "text": "The code only links you to an inviter.",
+      "media": { "stock": "hands typing on smartphone", "alt": ["phone keyboard close up"] },
+      "lines": [
+        { "show": "It doesn't. Your account, your fees and your security settings stay the same." },
+        { "show": "The current welcome offer and its terms are shown in the app's rewards page." } ] },
+    { "type": "checklist", "title": "Before you type it", "items": ["Use the official app", "Copy the code exactly", "Enter it before finishing"],
+      "media": { "stock": "checklist notebook desk", "alt": ["writing notes on paper"] },
+      "lines": [
+        { "show": "Three quick checks." },
+        { "show": "Download the official app from your app store." },
+        { "show": "Copy the code exactly, with no extra spaces." },
+        { "show": "Enter it before you finish sign-up, because it can't be added later." } ] },
+    { "type": "code", "media": { "stock": "finger tapping phone screen", "alt": ["thumb on smartphone"] },
+      "lines": [
+        { "show": "The code used in this video is XOACPQFC." },
+        { "show": "Type it in the referral field on the first sign-up screen." } ] },
+    { "type": "cta", "title": "If OKX is available where you live",
+      "media": { "stock": "phone on wooden desk", "alt": ["smartphone on table morning"] },
+      "lines": [
+        { "show": "If OKX is available where you live, use code XOACPQFC when you sign up." },
+        { "show": "Then check the rewards page for the current terms." } ] }
+  ]
+}

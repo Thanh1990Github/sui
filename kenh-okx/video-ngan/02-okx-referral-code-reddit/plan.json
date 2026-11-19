@@ -1,0 +1,38 @@
+{
+  "format": "short",
+  "stt": 2,
+  "keyword": "okx referral code reddit",
+  "title": "OKX referral code on Reddit: pick one safely",
+  "scenes": [
+    { "type": "hook", "title": "OKX referral code Reddit", "sub": "Why every thread shows a different code",
+      "media": { "stock": "man scrolling phone couch", "alt": ["person reading phone sofa"] },
+      "lines": [
+        { "show": "Reddit doesn't recommend one single OKX referral code." },
+        { "show": "Each thread lists personal codes from different users, and they do the same basic job." } ] },
+    { "type": "compare", "title": "Plain code or unknown link?",
+      "left": { "title": "Plain code", "items": ["You type it", "Official app", "Low risk"] },
+      "right": { "title": "Unknown link", "items": ["Could be fake", "Might copy logins", "Skip it"] },
+      "media": { "stock": "laptop forum page", "alt": ["computer screen reading"] },
+      "lines": [
+        { "show": "Here's the real choice." },
+        { "show": "A plain code you type yourself into the official app is low risk." },
+        { "show": "An unknown link could lead to a look-alike site, so skip it." } ] },
+    { "type": "statement", "title": "OKX sets the program", "text": "Not the person who posted the code.",
+      "media": { "stock": "office building glass", "alt": ["modern office exterior"] },
+      "lines": [
+        { "show": "The new user program is set by OKX, not by whoever posted the code." },
+        { "show": "Old threads can be out of date, so read the rewards page in the app today." } ] },
+    { "type": "warning", "title": "Never share your login", "text": "No real code needs your password.",
+      "media": { "stock": "padlock on keyboard", "alt": ["laptop security lock"] },
+      "lines": [
+        { "show": "If someone asks for your password or a private chat, walk away." } ] },
+    { "type": "code", "media": { "stock": "typing code on smartphone", "alt": ["hand holding phone close up"] },
+      "lines": [
+        { "show": "Here's a plain code you can type: XOACPQFC." },
+        { "show": "Enter it in the referral field during sign-up." } ] },
+    { "type": "cta", "title": "If OKX is available where you live",
+      "media": { "stock": "coffee and phone table", "alt": ["smartphone next to coffee cup"] },
+      "lines": [
+        { "show": "If OKX is available where you live, type XOACPQFC at sign-up in the official app." } ] }
+  ]
+}

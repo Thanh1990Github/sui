@@ -1,0 +1,38 @@
+{
+  "format": "short",
+  "stt": 5,
+  "keyword": "okx referral code benefits",
+  "title": "OKX referral code benefits: the honest answer",
+  "scenes": [
+    { "type": "hook", "title": "OKX referral code benefits", "sub": "What you get, and what you don't",
+      "media": { "stock": "woman reading phone cafe", "alt": ["person relaxing with smartphone"] },
+      "lines": [
+        { "show": "Using an OKX referral code can make you eligible for the OKX new user program." },
+        { "show": "But it doesn't change your fees." } ] },
+    { "type": "question", "title": "Do you get rewards?", "text": "It depends on the current program.",
+      "media": { "stock": "gift box on table", "alt": ["wrapped present desk"] },
+      "lines": [
+        { "show": "So, do you get rewards?" } ] },
+    { "type": "statement", "title": "Read the rewards page", "text": "Offers come with tasks and terms.",
+      "media": { "stock": "reading phone screen close", "alt": ["eyes looking at phone"] },
+      "lines": [
+        { "show": "Welcome rewards change over time and come with their own tasks." },
+        { "show": "The app's rewards page shows what's live and the terms." } ] },
+    { "type": "question", "title": "Are fees lower with a code?", "text": "Don't assume they are.",
+      "media": { "stock": "woman using laptop at home", "alt": ["person reading laptop screen"] },
+      "lines": [
+        { "show": "And does a code lower your trading fees?" } ] },
+    { "type": "statement", "title": "Fees follow the fee page", "text": "Your tier sets your fee.",
+      "media": { "stock": "laptop chart on desk", "alt": ["computer screen graph"] },
+      "lines": [
+        { "show": "Don't count on it. Fees follow the official fee page and your account tier." } ] },
+    { "type": "code", "media": { "stock": "hand holding phone outdoors", "alt": ["smartphone in sunlight"] },
+      "lines": [
+        { "show": "If you'd like a code to use, it's XOACPQFC." },
+        { "show": "Enter it on the sign-up screen." } ] },
+    { "type": "cta", "title": "If OKX is available where you live",
+      "media": { "stock": "phone beside notebook", "alt": ["desk with phone and pen"] },
+      "lines": [
+        { "show": "If OKX is available where you live, use code XOACPQFC, then check the rewards page." } ] }
+  ]
+}
