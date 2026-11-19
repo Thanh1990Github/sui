@@ -40,7 +40,13 @@
     "v": 2
   },
   "done": {
-    "short": [],
+    "short": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
     "long": [
       "1",
       "2",
@@ -157,10 +163,41 @@
     "pexels-7692848",
     "pixabay-41820",
     "pexels-6611948",
-    "pixabay-93826"
+    "pixabay-93826",
+    "pexels-6279146",
+    "pixabay-83870",
+    "pixabay-1656",
+    "pixabay-6395",
+    "pexels-9898435",
+    "pexels-6278954",
+    "pexels-8118109",
+    "pixabay-188807",
+    "pixabay-110924",
+    "pexels-5083053",
+    "pexels-33315143",
+    "pixabay-3158",
+    "pexels-13929702",
+    "pexels-7263306",
+    "pixabay-27095",
+    "pixabay-208770",
+    "pexels-28337958",
+    "pexels-3625771",
+    "pexels-39500866",
+    "pixabay-130652",
+    "pexels-6782207",
+    "pixabay-152183",
+    "pexels-13441348",
+    "pexels-15689210",
+    "pixabay-11289",
+    "pixabay-185096",
+    "pixabay-12126",
+    "pixabay-150883",
+    "pexels-38410501",
+    "pixabay-125595"
   ],
   "used_music": [
-    "own-piano-01.mp3"
+    "own-piano-01.mp3",
+    "own-piano-02.mp3"
   ],
   "created": "2026-11-17",
   "news_used": [
