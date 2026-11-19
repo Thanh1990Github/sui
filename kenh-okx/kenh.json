@@ -170,5 +170,28 @@
       "stt": 1,
       "at": "2026-11-17"
     }
-  ]
+  ],
+  "dang": {
+    "youtube": {
+      "id": "6afb47609067902fbcbeac58",
+      "name": "LifeProsper Hub",
+      "uid": "UCWRCJ6cISKjXW7Gi-l97cuw"
+    },
+    "tiktok": {
+      "id": "6afe6ae19067902fbcc156e2",
+      "name": "LifeProsper Hub",
+      "uid": "-000dqaVvbSL4VG5McgmBnuEVt6Ny3i5J-EN"
+    },
+    "facebook": {
+      "id": "6afe7b679067902fbcc15807",
+      "name": "LifeProsper Hub",
+      "uid": "1494824053708613"
+    },
+    "instagram": {
+      "id": "6afb47ea9067902fbcbeac5e",
+      "name": "LifeProsper Hub",
+      "uid": "29159362110393870"
+    },
+    "thumbnail": true
+  }
 }
