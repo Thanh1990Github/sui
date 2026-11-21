@@ -1,0 +1,37 @@
+{
+  "format": "short",
+  "stt": 7,
+  "keyword": "okx promo code",
+  "title": "OKX promo code: what new users should know",
+  "scenes": [
+    { "type": "hook", "title": "OKX promo code", "sub": "What new users can actually enter",
+      "media": { "stock": "woman shopping online laptop", "alt": ["person browsing laptop sofa"] },
+      "lines": [
+        { "show": "For new users, the OKX promo code you enter at sign-up is a referral code." },
+        { "show": "There's no separate coupon box to fill in." } ] },
+    { "type": "question", "title": "Is there a coupon field?", "text": "A mix-up from online shopping.",
+      "media": { "stock": "shopping cart icon screen", "alt": ["online checkout phone"] },
+      "lines": [
+        { "show": "People expect a coupon field like an online shop." } ] },
+    { "type": "statement", "title": "One field: the referral code", "text": "Promotions live in the rewards page.",
+      "media": { "stock": "man reading tablet", "alt": ["person using tablet kitchen"] },
+      "lines": [
+        { "show": "On OKX, the only code you type is the referral or invite code." },
+        { "show": "Promotions for new users are listed in the app's rewards page, with their own terms." } ] },
+    { "type": "checklist", "title": "Spot a fake promo", "items": ["Asks for a deposit", "Asks for your login", "Unknown site or link"],
+      "media": { "stock": "magnifying glass on desk", "alt": ["detective magnifier paper"] },
+      "lines": [
+        { "show": "Watch for three warning signs." },
+        { "show": "It asks you to send a deposit first." },
+        { "show": "It asks for your password or login code." },
+        { "show": "It comes from an unknown site or link." } ] },
+    { "type": "code", "media": { "stock": "hand holding phone street", "alt": ["smartphone outdoors close up"] },
+      "lines": [
+        { "show": "The code shared in this video is XOACPQFC." },
+        { "show": "Put it in the referral field when you sign up." } ] },
+    { "type": "cta", "title": "If OKX is available where you live",
+      "media": { "stock": "laptop and phone desk evening", "alt": ["workspace night lamp"] },
+      "lines": [
+        { "show": "If OKX is available where you live, enter XOACPQFC at sign-up, then read the rewards page." } ] }
+  ]
+}
