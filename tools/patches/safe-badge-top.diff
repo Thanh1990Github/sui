@@ -1,0 +1,27 @@
+--- /tmp/claude-0/-home-user-sui/4f04afd4-837f-5217-9c0d-205afae3fd3f/scratchpad/safe.orig.mjs	2026-11-21 14:33:58.913972706 +0000
++++ /root/.claude/skills/synced/6510cc56-1b79-4705-b6b4-0398ad97f2c1_fa644f3c-37bb-4faf-a9e1-ddfb0b2eb647/tao-video-ngan-v2/scripts/lib/safe.mjs	2026-11-21 14:33:58.927053106 +0000
+@@ -10,7 +10,8 @@
+   right: 900,      // cột nút bên phải (thích, bình luận, chia sẻ) chiếm từ x ≈ 900–940
+   capTop: 1232,    // dải phụ đề 1232–1422 → cách đáy gần 500 px, trên phần tên kênh/tiêu đề/caption của ứng dụng
+   capH: 190,
+-  badgeY: 252,     // khung mã cố định suốt video
++  badgeY: 140,     // khung mã cố định suốt video (đẩy cao lên, tránh phụ đề tự động của YouTube ở ~234–334)
++  mediaTop: 250,   // hình khung và thẻ chữ bắt đầu dưới khung mã, không chồng lên nhau
+   cardTop: 330, cardBottom: 1236, cardLeft: 48, cardRight: 932,
+ };
+ // Video ngang 1920×1080 (YouTube): chỉ thanh điều khiển ở đáy khi rê chuột → phụ đề 905–1030, chữ ≤ 880
+@@ -28,7 +29,13 @@
+   if (!P || !g) return g;
+   const S = SAFE_P;
+   const out = { ...g };
+-  if (out.card) out.card = fitIn(out.card, S.cardLeft, Math.min(out.card.y, S.cardTop), S.cardRight, S.cardBottom); // mép trên thẻ giữ nguyên (thẻ có thể ôm cả hình phía trên)
++  if (out.card) out.card = fitIn(out.card, S.cardLeft, Math.max(out.card.y, S.mediaTop), S.cardRight, S.cardBottom); // thẻ nằm dưới khung mã
++  const m = out.media;
++  if (m && !(m.w >= 1080 && m.h >= 1900) && m.y < S.mediaTop) { // hình khung (không phải nền tràn) không được chồng lên khung mã
++    const bottom = m.y + m.h, nh = Math.max(160, bottom - S.mediaTop);
++    if (m.w >= 1000) out.media = { ...m, y: S.mediaTop, h: nh };
++    else { const k = nh / m.h, nw = Math.round(m.w * k); out.media = { ...m, x: Math.round(m.x + (m.w - nw) / 2), y: S.mediaTop, w: nw, h: nh }; }
++  }
+   let tz = fitIn(out.tz, S.left, S.top, S.right, S.bottom);
+   if (out.card && tz) tz = fitIn(tz, out.card.x + 36, out.card.y + 32, out.card.x + out.card.w - 36, out.card.y + out.card.h - 32);
+   out.tz = tz;
