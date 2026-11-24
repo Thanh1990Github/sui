@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Kiểm tra trùng từ khóa / chủ đề / tiêu đề TRƯỚC KHI ĐĂNG.
+"""Kiểm tra trùng tiêu đề / nội dung TRƯỚC KHI ĐĂNG (từ khóa được dùng lại, chỉ cảnh báo).
 
 Dùng:
   python3 tools/check-trung.py "<tiêu đề mới>" [--kw "<từ khóa chính>"] [--kenh UCxxxx]
@@ -7,7 +7,8 @@ Dùng:
 
 So với: mọi video đang có trên kênh YouTube (trang /videos, /shorts và RSS)
 và mọi post.json trong kenh-*/ (video đã làm, kể cả chưa đăng).
-Thoát mã 1 nếu có trùng → KHÔNG đăng, đổi từ khóa/tiêu đề trước.
+Từ khóa được dùng chung (⚠ chỉ để biết). Tiêu đề trùng/gần giống hoặc lời đọc giống
+video đã làm → ✗, thoát mã 1 → KHÔNG đăng, viết tiêu đề và nội dung mới trước.
 """
 import json, re, sys, glob, os, urllib.request, html
 
@@ -101,23 +102,40 @@ def main():
     kw = kw or core(title)
     nk, ct, tt = norm(kw), core(title), toks(title)
     print(f"Kiểm tra: “{title}”  · từ khóa: {kw}")
-    hits = []
+    hits, warns = [], []
     for src, items in (("KÊNH", channel_titles(ch)), ("ĐÃ LÀM", local_titles(vdir))):
         for ref, t in items.items():
-            why = []
-            if core(t) == ct: why.append("trùng cụm từ khóa đầu tiêu đề")
-            if nk and (core(t) == nk or norm(t).startswith(nk + " ") and len(nk.split()) >= 3): why.append("trùng từ khóa chính")
+            link = f"https://www.youtube.com/watch?v={ref}" if src == "KÊNH" else ref
             ot = toks(t)
-            if tt and ot and len(tt & ot) / len(tt | ot) >= 0.6: why.append("tiêu đề gần giống")
-            if norm(t) == norm(title): why.append("trùng y hệt tiêu đề")
-            if why:
-                link = f"https://www.youtube.com/watch?v={ref}" if src == "KÊNH" else ref
-                hits.append(f"  ✗ [{src}] “{t}” — {', '.join(dict.fromkeys(why))}\n      {link}")
+            sim = len(tt & ot) / len(tt | ot) if tt and ot else 0
+            if norm(t) == norm(title): hits.append(f"  ✗ [{src}] “{t}” — trùng y hệt tiêu đề\n      {link}")
+            elif sim >= 0.6: hits.append(f"  ✗ [{src}] “{t}” — tiêu đề gần giống ({sim:.0%})\n      {link}")
+            elif core(t) == ct or (nk and core(t) == nk): warns.append(f"  ⚠ [{src}] “{t}” — cùng từ khóa (được phép, tiêu đề đã khác)")
+    if vdir:  # nội dung: so lời đọc với các video đã làm
+        mine = script_words(vdir)
+        for p in glob.glob("kenh-*/video-*/*/plan.json"):
+            d = os.path.dirname(p)
+            if os.path.abspath(d) == os.path.abspath(vdir): continue
+            o = script_words(d)
+            if mine and o:
+                s = len(mine & o) / len(mine | o)
+                if s >= 0.5: hits.append(f"  ✗ [NỘI DUNG] lời đọc giống {d} ({s:.0%}) — viết lại nội dung")
+    print("\n".join(warns) if warns else "", end="\n" if warns else "")
     if hits:
         print("\n".join(hits))
-        print("→ CÓ TRÙNG: đổi sang từ khóa chưa dùng và viết tiêu đề khác trước khi đăng.")
+        print("→ CÓ TRÙNG: viết tiêu đề / nội dung mới rồi kiểm lại trước khi đăng.")
         sys.exit(1)
-    print("✓ Không trùng từ khóa/tiêu đề với video trên kênh và video đã làm.")
+    print("✓ Tiêu đề và nội dung mới, không trùng video trên kênh hay video đã làm.")
+
+
+def script_words(d):
+    try:
+        pl = json.load(open(os.path.join(d, "plan.json")))
+    except Exception:
+        return set()
+    txt = " ".join(l.get("show", "") for sc in pl.get("scenes", []) for l in sc.get("lines", []))
+    w = norm(txt).split()
+    return {" ".join(w[i:i + 3]) for i in range(len(w) - 2)}  # cụm 3 từ
 
 
 if __name__ == "__main__":
