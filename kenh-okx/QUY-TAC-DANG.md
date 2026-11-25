@@ -17,3 +17,7 @@
    - Tick "Quảng cáo có trả tiền", thêm vào playlist.
    - TikTok: bật "Nội dung có thương hiệu".
 5. **Video tin tức: ưu tiên sự kiện, thông báo, sản phẩm mới của OKX** (tin loại "về OKX"), tin thị trường chung chỉ dùng khi không có tin OKX phù hợp.
+6. **Nhiều key PostPeer**: đăng bằng `node tools/pp-xoay.mjs dang <thư-mục> …` (tự kiểm trùng, tự chọn key còn đủ lượt).
+   `node tools/pp-xoay.mjs xem` để xem lượt còn lại. Key nằm ở `~/.affiliate-postpeer-keys.json`, không commit.
+7. **Giờ đăng**: bot cloud đăng khoảng 08:05 và 20:07 (giờ VN). Video đăng tay đặt ở 12:00 hoặc 15:30, cách giờ bot ≥ 3 tiếng;
+   tổng cộng tối đa 4 video/ngày trên YouTube, TikTok tối đa 2 video/ngày.
