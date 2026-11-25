@@ -16,3 +16,4 @@
    - Short: mục "Video liên quan" → gắn video dài cùng chủ đề.
    - Tick "Quảng cáo có trả tiền", thêm vào playlist.
    - TikTok: bật "Nội dung có thương hiệu".
+5. **Video tin tức: ưu tiên sự kiện, thông báo, sản phẩm mới của OKX** (tin loại "về OKX"), tin thị trường chung chỉ dùng khi không có tin OKX phù hợp.

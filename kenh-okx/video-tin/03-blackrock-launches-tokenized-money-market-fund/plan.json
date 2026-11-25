@@ -1,0 +1,322 @@
+{
+  "format": "long",
+  "stt": 3,
+  "kind": "news",
+  "keyword": "blackrock tokenized money market fund",
+  "title": "BlackRock's Tokenized Fund in Hong Kong Takes Stablecoins: What It Means",
+  "news": {
+    "source": "Cointelegraph",
+    "date": "2026-11-24"
+  },
+  "intro_chapter": "The news in one minute",
+  "code_chapter": "Following crypto news on OKX",
+  "thumbnail": {
+    "text": "FUND TAKES STABLECOINS",
+    "badge": "NEWS",
+    "stock": "hong kong skyline night harbor",
+    "image_prompt": "Hong Kong harbor skyline at night with glowing digital light lines over the water, cinematic, no text, no logos"
+  },
+  "scenes": [
+    {
+      "type": "hook",
+      "title": "BlackRock fund takes stablecoins",
+      "sub": "Hong Kong, about 100 million dollars",
+      "kicker": "CRYPTO NEWS · NOV 24",
+      "media": {
+        "stock": "hong kong skyline night",
+        "alt": [
+          "city harbor night lights"
+        ]
+      },
+      "lines": [
+        {
+          "show": "BlackRock has launched a tokenized money market fund in Hong Kong that accepts stablecoins."
+        },
+        {
+          "show": "According to Cointelegraph, it started with about 100 million dollars in assets."
+        },
+        {
+          "show": "Here's what happened, how it works, and what it means for everyday crypto users."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "What happened"
+    },
+    {
+      "type": "stat",
+      "value": "$100M",
+      "label": "assets at launch",
+      "media": {
+        "stock": "hong kong skyscrapers aerial",
+        "alt": [
+          "victoria harbour towers"
+        ]
+      },
+      "lines": [
+        {
+          "show": "The fund is called the BlackRock HKD Digital Liquidity Fund.",
+          "say": "The fund is called the BlackRock H K D Digital Liquidity Fund."
+        },
+        {
+          "show": "A South China Morning Post report said it launched with roughly 100 million dollars."
+        },
+        {
+          "show": "BlackRock's documents show the fund began operations on November 16."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Two big seed investors",
+      "text": "A bank and a payments company.",
+      "media": {
+        "stock": "business meeting glass office",
+        "alt": [
+          "people in conference room"
+        ]
+      },
+      "lines": [
+        {
+          "show": "The seed investors are Standard Chartered, the British banking group, and Ant International."
+        },
+        {
+          "show": "Ant International is a Singapore-based digital payments company spun out of China's Ant Group."
+        },
+        {
+          "show": "Both also play wider roles in how the fund runs and gets used."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "How it works"
+    },
+    {
+      "type": "question",
+      "title": "What's a money market fund?",
+      "text": "Short-term, high-grade holdings.",
+      "media": {
+        "stock": "woman reading report laptop",
+        "alt": [
+          "office desk laptop documents"
+        ]
+      },
+      "lines": [
+        {
+          "show": "First, what is a money market fund?"
+        },
+        {
+          "show": "This one invests mainly in short-term government-backed securities and high-grade bank deposits."
+        },
+        {
+          "show": "Tokenized means fund shares are recorded as tokens on a blockchain."
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "Stablecoin in, stablecoin out",
+      "items": [
+        "Hold a stablecoin",
+        "Subscribe to the fund",
+        "Redeem in stablecoin"
+      ],
+      "media": {
+        "stock": "smartphone banking app close",
+        "alt": [
+          "person using phone app"
+        ]
+      },
+      "lines": [
+        {
+          "show": "Here's the key change."
+        },
+        {
+          "show": "Institutions can stay in a stablecoin instead of converting to cash first."
+        },
+        {
+          "show": "They put that stablecoin straight into the fund."
+        },
+        {
+          "show": "And they can take money out in the same stablecoin."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "The stablecoin: HKDAP",
+      "text": "Pegged to the Hong Kong dollar.",
+      "media": {
+        "stock": "hong kong street trams",
+        "alt": [
+          "hong kong busy street"
+        ]
+      },
+      "lines": [
+        {
+          "show": "The stablecoin used is HKDAP, pegged to the Hong Kong dollar.",
+          "say": "The stablecoin used is H K D A P, pegged to the Hong Kong dollar."
+        },
+        {
+          "show": "It's issued by Anchorpoint Financial, a joint venture of Standard Chartered, HKT and Animoca Brands."
+        },
+        {
+          "show": "Standard Chartered is also the fund's custodian, administrator, trustee and tokenization agent."
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "value": "20M+",
+      "label": "daily transactions at Ant International",
+      "media": {
+        "stock": "world map digital network",
+        "alt": [
+          "global network lights"
+        ]
+      },
+      "lines": [
+        {
+          "show": "For Ant International, the fund supports round-the-clock cash management across its operations."
+        },
+        {
+          "show": "The company says it handles over 20 million transactions a day, across 220 markets."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "What it means for you"
+    },
+    {
+      "type": "warning",
+      "title": "Institutions first",
+      "text": "Retail investors use regular Hong Kong dollars.",
+      "media": {
+        "stock": "man reading news on tablet",
+        "alt": [
+          "person reading tablet cafe"
+        ]
+      },
+      "lines": [
+        {
+          "show": "One important detail: the stablecoin route is for institutional investors."
+        },
+        {
+          "show": "Retail investors in this fund are limited to conventional Hong Kong dollars."
+        }
+      ]
+    },
+    {
+      "type": "checklist",
+      "title": "Three takeaways",
+      "items": [
+        "Big names are building",
+        "Stablecoins get real uses",
+        "Hong Kong moves fast"
+      ],
+      "media": {
+        "stock": "notebook pen coffee desk",
+        "alt": [
+          "writing notes on desk"
+        ]
+      },
+      "lines": [
+        {
+          "show": "So what should you take from this?"
+        },
+        {
+          "show": "Large asset managers are putting traditional funds on blockchains."
+        },
+        {
+          "show": "Stablecoins are being used for more than trading, like moving into and out of funds."
+        },
+        {
+          "show": "And Hong Kong keeps building: HSBC announced a tokenized fund for retail customers on November 19."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Licensed stablecoin issuers",
+      "text": "Hong Kong's first two licenses came in April.",
+      "media": {
+        "stock": "hong kong central district",
+        "alt": [
+          "hong kong office buildings day"
+        ]
+      },
+      "lines": [
+        {
+          "show": "HSBC and Anchorpoint Financial received Hong Kong's first two stablecoin issuer licenses in April."
+        },
+        {
+          "show": "That was eight months after the city's stablecoin rules took effect."
+        },
+        {
+          "show": "This is news to understand, not a signal to buy or sell anything."
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "title": "Follow the story"
+    },
+    {
+      "type": "statement",
+      "title": "Learn stablecoins safely",
+      "text": "Use official apps only.",
+      "media": {
+        "stock": "person using laptop home evening",
+        "alt": [
+          "laptop at home desk"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If you want to learn how stablecoins like USDC work, you can explore them in an exchange app."
+        },
+        {
+          "show": "Always sign up in the official app and type any code yourself."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "media": {
+        "stock": "hand holding phone close",
+        "alt": [
+          "smartphone in hand"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If you're new to OKX, the referral code used on this channel is XOACPQFC."
+        },
+        {
+          "show": "Enter it in the referral field when you create your account."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "media": {
+        "stock": "city night window view",
+        "alt": [
+          "apartment window city lights"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If OKX is available where you live, use code XOACPQFC at sign-up."
+        },
+        {
+          "show": "The link is in the description. Follow for more crypto news explained simply."
+        }
+      ]
+    }
+  ]
+}

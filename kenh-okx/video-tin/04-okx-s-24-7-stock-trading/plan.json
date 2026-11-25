@@ -1,0 +1,130 @@
+{
+  "format": "short",
+  "stt": 4,
+  "kind": "news",
+  "keyword": "okx tokenized stocks 24/7",
+  "title": "OKX opens 24/7 trading in six stock tokens",
+  "news": {
+    "source": "CryptoSlate",
+    "date": "2026-11-25"
+  },
+  "scenes": [
+    {
+      "type": "hook",
+      "title": "Stock tokens, 24/7",
+      "sub": "Six stocks, trading after the bell",
+      "kicker": "CRYPTO NEWS · NOV 25",
+      "media": {
+        "stock": "city skyline at night lights",
+        "alt": [
+          "stock market screen night"
+        ]
+      },
+      "lines": [
+        {
+          "show": "Stocks that keep trading after the market closes. OKX just switched that on."
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "value": "6",
+      "label": "stock tokens at launch",
+      "media": {
+        "stock": "trading screens office night",
+        "alt": [
+          "computer monitors charts dark"
+        ]
+      },
+      "lines": [
+        {
+          "show": "According to CryptoSlate, OKX opened 24/7 trading in six stock tokens on November 23.",
+          "say": "According to CryptoSlate, OKX opened twenty-four seven trading in six stock tokens on November 23."
+        },
+        {
+          "show": "Eligible US customers pay with USDC in the OKX app."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Backed one-for-one",
+      "text": "Underlying shares back each token.",
+      "media": {
+        "stock": "stock certificate paper desk",
+        "alt": [
+          "documents on office desk"
+        ]
+      },
+      "lines": [
+        {
+          "show": "Real shares back the tokens one-for-one, the venue says."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "113 assets planned",
+      "text": "A rolling rollout, run by OKX and ICE.",
+      "media": {
+        "stock": "new york street buildings",
+        "alt": [
+          "financial district street"
+        ]
+      },
+      "lines": [
+        {
+          "show": "OKX says 113 assets are confirmed for a rolling rollout."
+        },
+        {
+          "show": "It's a joint venture with the New York Stock Exchange's parent company."
+        }
+      ]
+    },
+    {
+      "type": "statement",
+      "title": "Prices can differ",
+      "text": "Read the quote before you trade.",
+      "media": {
+        "stock": "woman checking phone evening",
+        "alt": [
+          "person reading smartphone"
+        ]
+      },
+      "lines": [
+        {
+          "show": "After hours, a token's price can differ from the share, so check the quote."
+        }
+      ]
+    },
+    {
+      "type": "code",
+      "media": {
+        "stock": "hand typing on phone close",
+        "alt": [
+          "smartphone keyboard close up"
+        ]
+      },
+      "lines": [
+        {
+          "show": "New to OKX? The code is XOACPQFC. Type it at sign-up."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "If OKX is available where you live",
+      "media": {
+        "stock": "phone on desk night lamp",
+        "alt": [
+          "smartphone on table evening"
+        ]
+      },
+      "lines": [
+        {
+          "show": "If OKX is available where you live, use code XOACPQFC. Follow for daily crypto news."
+        }
+      ]
+    }
+  ]
+}
